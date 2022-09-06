@@ -102,96 +102,6 @@
       \field{title}{World Without Mind: The Existential Threat of Big Tech (Franklin Foer)}
       \field{year}{2018}
     \endentry
-    \entry{szabo1997formalizing}{article}{}
-      \name{author}{1}{}{%
-        {{hash=7a8fa37f931a316fe587067d55ea90fb}{%
-           family={Szabo},
-           familyi={S\bibinitperiod},
-           given={Nick},
-           giveni={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{7a8fa37f931a316fe587067d55ea90fb}
-      \strng{fullhash}{7a8fa37f931a316fe587067d55ea90fb}
-      \strng{bibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
-      \strng{authorbibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
-      \strng{authornamehash}{7a8fa37f931a316fe587067d55ea90fb}
-      \strng{authorfullhash}{7a8fa37f931a316fe587067d55ea90fb}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{First monday}
-      \field{title}{Formalizing and securing relationships on public networks}
-      \field{year}{1997}
-    \endentry
-    \entry{ford2005peer}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=5a50d3ad145a7f008cb2a77765952811}{%
-           family={Ford},
-           familyi={F\bibinitperiod},
-           given={Bryan},
-           giveni={B\bibinitperiod}}}%
-        {{hash=26c22827dfe69eb0a51075f886f22ec6}{%
-           family={Srisuresh},
-           familyi={S\bibinitperiod},
-           given={Pyda},
-           giveni={P\bibinitperiod}}}%
-        {{hash=09c993d579bd37df9a9c8679249f2383}{%
-           family={Kegel},
-           familyi={K\bibinitperiod},
-           given={Dan},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{fae4a2e38011dae9b522ad8e1a36491d}
-      \strng{fullhash}{fae4a2e38011dae9b522ad8e1a36491d}
-      \strng{bibnamehash}{fae4a2e38011dae9b522ad8e1a36491d}
-      \strng{authorbibnamehash}{fae4a2e38011dae9b522ad8e1a36491d}
-      \strng{authornamehash}{fae4a2e38011dae9b522ad8e1a36491d}
-      \strng{authorfullhash}{fae4a2e38011dae9b522ad8e1a36491d}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{USENIX Annual Technical Conference, General Track}
-      \field{title}{Peer-to-Peer Communication Across Network Address Translators.}
-      \field{year}{2005}
-      \field{pages}{179\bibrangedash 192}
-      \range{pages}{14}
-    \endentry
-    \entry{karaarslan2018blockchain}{article}{}
-      \name{author}{2}{}{%
-        {{hash=7d451de1a2de3113cf1ebc66fa1a989b}{%
-           family={Karaarslan},
-           familyi={K\bibinitperiod},
-           given={Enis},
-           giveni={E\bibinitperiod}}}%
-        {{hash=d6ca486a078d26fc6ec7c6c56a7c3679}{%
-           family={Adiguzel},
-           familyi={A\bibinitperiod},
-           given={Eylul},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{5e16ed0c135fe81b5abe7c1c3785b0a8}
-      \strng{fullhash}{5e16ed0c135fe81b5abe7c1c3785b0a8}
-      \strng{bibnamehash}{5e16ed0c135fe81b5abe7c1c3785b0a8}
-      \strng{authorbibnamehash}{5e16ed0c135fe81b5abe7c1c3785b0a8}
-      \strng{authornamehash}{5e16ed0c135fe81b5abe7c1c3785b0a8}
-      \strng{authorfullhash}{5e16ed0c135fe81b5abe7c1c3785b0a8}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{IEEE Communications Standards Magazine}
-      \field{number}{3}
-      \field{title}{Blockchain based DNS and PKI solutions}
-      \field{volume}{2}
-      \field{year}{2018}
-      \field{pages}{52\bibrangedash 57}
-      \range{pages}{6}
-    \endentry
     \entry{rauchs2018distributed}{article}{}
       \name{author}{8}{}{%
         {{hash=7fa2ae1ba416b23a7b1b4510b37e1df1}{%
@@ -241,8 +151,8 @@
       \strng{authorbibnamehash}{7e75e728b626540419cbad4ed7c9ca5a}
       \strng{authornamehash}{7e75e728b626540419cbad4ed7c9ca5a}
       \strng{authorfullhash}{db8037f9054fe040bece05670abf47e0}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 3230013}
@@ -271,8 +181,8 @@
       \strng{authorbibnamehash}{0e5b32e0f9310a880e31b601846f258d}
       \strng{authornamehash}{0e5b32e0f9310a880e31b601846f258d}
       \strng{authorfullhash}{0e5b32e0f9310a880e31b601846f258d}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE transactions on Information Theory}
@@ -300,8 +210,8 @@
       \strng{authorbibnamehash}{7ce153cbcf9fe4d00b9e06666f55de7a}
       \strng{authornamehash}{7ce153cbcf9fe4d00b9e06666f55de7a}
       \strng{authorfullhash}{7ce153cbcf9fe4d00b9e06666f55de7a}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Communications of the ACM}
@@ -329,8 +239,8 @@
       \strng{authorbibnamehash}{86741b57543820f93f71905d3f3cad92}
       \strng{authornamehash}{86741b57543820f93f71905d3f3cad92}
       \strng{authorfullhash}{86741b57543820f93f71905d3f3cad92}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The rise of the computer state}
@@ -353,8 +263,8 @@
       \strng{authorbibnamehash}{615e97951d5e1c224ddda5bded8c9081}
       \strng{authornamehash}{615e97951d5e1c224ddda5bded8c9081}
       \strng{authorfullhash}{615e97951d5e1c224ddda5bded8c9081}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Communications of the ACM}
@@ -379,8 +289,8 @@
       \strng{authorbibnamehash}{ead692aae83339172e044c7a2e094b39}
       \strng{authornamehash}{ead692aae83339172e044c7a2e094b39}
       \strng{authorfullhash}{ead692aae83339172e044c7a2e094b39}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Market Process, v8, Spring}
@@ -403,8 +313,8 @@
       \strng{authorbibnamehash}{3d842ffaa93f7967ebbdf855357f17c7}
       \strng{authornamehash}{3d842ffaa93f7967ebbdf855357f17c7}
       \strng{authorfullhash}{3d842ffaa93f7967ebbdf855357f17c7}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Costs and Computers}
@@ -428,8 +338,8 @@
       \strng{authorbibnamehash}{f22794f69ce5910cb4be68ff9026570d}
       \strng{authornamehash}{f22794f69ce5910cb4be68ff9026570d}
       \strng{authorfullhash}{f22794f69ce5910cb4be68ff9026570d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Cypher Punks Mailing List Archives}
@@ -457,8 +367,8 @@
       \strng{authorbibnamehash}{2c19264760e05918100983098a9b96ec}
       \strng{authornamehash}{2c19264760e05918100983098a9b96ec}
       \strng{authorfullhash}{2c19264760e05918100983098a9b96ec}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Hashcash-a denial of service counter-measure}
@@ -546,6 +456,29 @@
       \field{journaltitle}{URL http://www. weidai. com/bmoney. txt.(Last access: 08.04. 2019)}
       \field{title}{b-money, 1998}
       \field{year}{1998}
+    \endentry
+    \entry{szabo1997formalizing}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a8fa37f931a316fe587067d55ea90fb}{%
+           family={Szabo},
+           familyi={S\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{fullhash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{bibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authorbibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authornamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authorfullhash}{7a8fa37f931a316fe587067d55ea90fb}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{First monday}
+      \field{title}{Formalizing and securing relationships on public networks}
+      \field{year}{1997}
     \endentry
     \entry{callas1998openpgp}{report}{}
       \name{author}{4}{}{%
@@ -715,336 +648,11 @@
       \strng{authorbibnamehash}{7d970d744a8b95f7a98a371e95f2b68a}
       \strng{authornamehash}{7d970d744a8b95f7a98a371e95f2b68a}
       \strng{authorfullhash}{7d970d744a8b95f7a98a371e95f2b68a}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Check Your Financial Privilege}
-      \field{year}{2022}
-    \endentry
-    \entry{golumbia2020cryptocurrency}{article}{}
-      \name{author}{1}{}{%
-        {{hash=7b7432a793160905a4caf93f82d4c550}{%
-           family={Golumbia},
-           familyi={G\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{7b7432a793160905a4caf93f82d4c550}
-      \strng{fullhash}{7b7432a793160905a4caf93f82d4c550}
-      \strng{bibnamehash}{7b7432a793160905a4caf93f82d4c550}
-      \strng{authorbibnamehash}{7b7432a793160905a4caf93f82d4c550}
-      \strng{authornamehash}{7b7432a793160905a4caf93f82d4c550}
-      \strng{authorfullhash}{7b7432a793160905a4caf93f82d4c550}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{So Is Blockchain.(June 16, 2020)}
-      \field{title}{Cryptocurrency Is Garbage. So Is Blockchain.}
-      \field{year}{2020}
-    \endentry
-    \entry{buterin2013ethereum}{article}{}
-      \true{moreauthor}
-      \true{morelabelname}
-      \name{author}{1}{}{%
-        {{hash=850981945102d0f671b6762173c8988a}{%
-           family={Buterin},
-           familyi={B\bibinitperiod},
-           given={Vitalik},
-           giveni={V\bibinitperiod}}}%
-      }
-      \strng{namehash}{fa265b80691610b5092f93ae4a80f9b7}
-      \strng{fullhash}{fa265b80691610b5092f93ae4a80f9b7}
-      \strng{bibnamehash}{fa265b80691610b5092f93ae4a80f9b7}
-      \strng{authorbibnamehash}{fa265b80691610b5092f93ae4a80f9b7}
-      \strng{authornamehash}{fa265b80691610b5092f93ae4a80f9b7}
-      \strng{authorfullhash}{fa265b80691610b5092f93ae4a80f9b7}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{GitHub repository}
-      \field{title}{Ethereum white paper}
-      \field{volume}{1}
-      \field{year}{2013}
-      \field{pages}{22\bibrangedash 23}
-      \range{pages}{2}
-    \endentry
-    \entry{sayeed2019assessing}{article}{}
-      \name{author}{2}{}{%
-        {{hash=09a1fb82079f43d166e0db8620d384c6}{%
-           family={Sayeed},
-           familyi={S\bibinitperiod},
-           given={Sarwar},
-           giveni={S\bibinitperiod}}}%
-        {{hash=b3d6939da41c4632201ede6e2ebeea1c}{%
-           family={Marco-Gisbert},
-           familyi={M\bibinithyphendelim G\bibinitperiod},
-           given={Hector},
-           giveni={H\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Multidisciplinary Digital Publishing Institute}%
-      }
-      \strng{namehash}{42fa17c48bf56f0a336a7a1ad6fdd427}
-      \strng{fullhash}{42fa17c48bf56f0a336a7a1ad6fdd427}
-      \strng{bibnamehash}{42fa17c48bf56f0a336a7a1ad6fdd427}
-      \strng{authorbibnamehash}{42fa17c48bf56f0a336a7a1ad6fdd427}
-      \strng{authornamehash}{42fa17c48bf56f0a336a7a1ad6fdd427}
-      \strng{authorfullhash}{42fa17c48bf56f0a336a7a1ad6fdd427}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Applied Sciences}
-      \field{number}{9}
-      \field{title}{Assessing blockchain consensus and security mechanisms against the 51\% attack}
-      \field{volume}{9}
-      \field{year}{2019}
-      \field{pages}{1788}
-      \range{pages}{1}
-    \endentry
-    \entry{petzold2008annotated}{book}{}
-      \name{author}{1}{}{%
-        {{hash=d629b59af1c9faa03aafb1006b08927f}{%
-           family={Petzold},
-           familyi={P\bibinitperiod},
-           given={Charles},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley Publishing}%
-      }
-      \strng{namehash}{d629b59af1c9faa03aafb1006b08927f}
-      \strng{fullhash}{d629b59af1c9faa03aafb1006b08927f}
-      \strng{bibnamehash}{d629b59af1c9faa03aafb1006b08927f}
-      \strng{authorbibnamehash}{d629b59af1c9faa03aafb1006b08927f}
-      \strng{authornamehash}{d629b59af1c9faa03aafb1006b08927f}
-      \strng{authorfullhash}{d629b59af1c9faa03aafb1006b08927f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The annotated Turing: a guided tour through Alan Turing's historic paper on computability and the Turing machine}
-      \field{year}{2008}
-    \endentry
-    \entry{hafid2020scaling}{article}{}
-      \name{author}{3}{}{%
-        {{hash=3402a5f763ba76cd7804482d17a78cee}{%
-           family={Hafid},
-           familyi={H\bibinitperiod},
-           given={Abdelatif},
-           giveni={A\bibinitperiod}}}%
-        {{hash=582013bd4da42c3b2f134b1c9521fbdc}{%
-           family={Hafid},
-           familyi={H\bibinitperiod},
-           given={Abdelhakim\bibnamedelima Senhaji},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=aed8853e044554f71135819e1e7ee8f6}{%
-           family={Samih},
-           familyi={S\bibinitperiod},
-           given={Mustapha},
-           giveni={M\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{99b6a636621abc6298935c3dd93b5114}
-      \strng{fullhash}{99b6a636621abc6298935c3dd93b5114}
-      \strng{bibnamehash}{99b6a636621abc6298935c3dd93b5114}
-      \strng{authorbibnamehash}{99b6a636621abc6298935c3dd93b5114}
-      \strng{authornamehash}{99b6a636621abc6298935c3dd93b5114}
-      \strng{authorfullhash}{99b6a636621abc6298935c3dd93b5114}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{IEEE Access}
-      \field{title}{Scaling blockchains: A comprehensive survey}
-      \field{volume}{8}
-      \field{year}{2020}
-      \field{pages}{125244\bibrangedash 125262}
-      \range{pages}{19}
-    \endentry
-    \entry{bonneau2015sok}{inproceedings}{}
-      \name{author}{6}{}{%
-        {{hash=e6eb78ec5f92eaff4e9d4b944aff4c9c}{%
-           family={Bonneau},
-           familyi={B\bibinitperiod},
-           given={Joseph},
-           giveni={J\bibinitperiod}}}%
-        {{hash=403caa7edb7a2770a6a678a46079869e}{%
-           family={Miller},
-           familyi={M\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod}}}%
-        {{hash=d0054c54f53e249b95a1f7e7b702a6bf}{%
-           family={Clark},
-           familyi={C\bibinitperiod},
-           given={Jeremy},
-           giveni={J\bibinitperiod}}}%
-        {{hash=95dc795a2be14c50fb6a924acc135ff8}{%
-           family={Narayanan},
-           familyi={N\bibinitperiod},
-           given={Arvind},
-           giveni={A\bibinitperiod}}}%
-        {{hash=8ae1e8e3f397c6747aa40e4554754051}{%
-           family={Kroll},
-           familyi={K\bibinitperiod},
-           given={Joshua\bibnamedelima A},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=1527a830397c4e7dfb4604830ab3ae90}{%
-           family={Felten},
-           familyi={F\bibinitperiod},
-           given={Edward\bibnamedelima W},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-      }
-      \list{organization}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{fc0b95de265927ccb2a11d5d400c3e8f}
-      \strng{fullhash}{6b77be4ebda3da88eea0d2832b0899f5}
-      \strng{bibnamehash}{fc0b95de265927ccb2a11d5d400c3e8f}
-      \strng{authorbibnamehash}{fc0b95de265927ccb2a11d5d400c3e8f}
-      \strng{authornamehash}{fc0b95de265927ccb2a11d5d400c3e8f}
-      \strng{authorfullhash}{6b77be4ebda3da88eea0d2832b0899f5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{2015 IEEE symposium on security and privacy}
-      \field{title}{Sok: Research perspectives and challenges for bitcoin and cryptocurrencies}
-      \field{year}{2015}
-      \field{pages}{104\bibrangedash 121}
-      \range{pages}{18}
-    \endentry
-    \entry{cryptopians}{book}{}
-      \name{author}{1}{}{%
-        {{hash=d1e996d8dda90032d4a4b7867021c7f7}{%
-           family={Shin},
-           familyi={S\bibinitperiod},
-           given={Laura},
-           giveni={L\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Public Affairs}%
-      }
-      \strng{namehash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{fullhash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{bibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{authorbibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{authornamehash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \strng{authorfullhash}{d1e996d8dda90032d4a4b7867021c7f7}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze}
-      \field{year}{2022}
-    \endentry
-    \entry{liu2022empirical}{article}{}
-      \name{author}{6}{}{%
-        {{hash=45013475b7175b160f9391fb1f2ccc00}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Yulin},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=0f8c12873a99a13ba32ad2f59f9a878e}{%
-           family={Lu},
-           familyi={L\bibinitperiod},
-           given={Yuxuan},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=27f8f17b33c6d7ee1957b87dff696ff0}{%
-           family={Nayak},
-           familyi={N\bibinitperiod},
-           given={Kartik},
-           giveni={K\bibinitperiod}}}%
-        {{hash=ae021641a8f85fd2607152ab99ed115b}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Fan},
-           giveni={F\bibinitperiod}}}%
-        {{hash=359ab680288a001909e649491ad9dad1}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Luyao},
-           giveni={L\bibinitperiod}}}%
-        {{hash=f31de2df9f9b8c0df27c9910b1622f5a}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Yinhong},
-           giveni={Y\bibinitperiod}}}%
-      }
-      \strng{namehash}{b19a9125870510a38f7abb105731e808}
-      \strng{fullhash}{27e1a96aa37411caf5976ce79d8b1c64}
-      \strng{bibnamehash}{b19a9125870510a38f7abb105731e808}
-      \strng{authorbibnamehash}{b19a9125870510a38f7abb105731e808}
-      \strng{authornamehash}{b19a9125870510a38f7abb105731e808}
-      \strng{authorfullhash}{27e1a96aa37411caf5976ce79d8b1c64}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:2201.05574}
-      \field{title}{Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security}
-      \field{year}{2022}
-    \endentry
-    \entry{poelstra2015stake}{article}{}
-      \name{author}{1}{}{%
-        {{hash=fe914f862504c238885350db24127f4a}{%
-           family={Poelstra},
-           familyi={P\bibinitperiod},
-           given={Andrew},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{fe914f862504c238885350db24127f4a}
-      \strng{fullhash}{fe914f862504c238885350db24127f4a}
-      \strng{bibnamehash}{fe914f862504c238885350db24127f4a}
-      \strng{authorbibnamehash}{fe914f862504c238885350db24127f4a}
-      \strng{authornamehash}{fe914f862504c238885350db24127f4a}
-      \strng{authorfullhash}{fe914f862504c238885350db24127f4a}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{WP Software}
-      \field{title}{On stake and consensus}
-      \field{volume}{22}
-      \field{year}{2015}
-      \field{pages}{29}
-      \range{pages}{1}
-    \endentry
-    \entry{mackinga2022twap}{article}{}
-      \name{author}{3}{}{%
-        {{hash=fb997309f615c99d560adecdf805bf75}{%
-           family={Mackinga},
-           familyi={M\bibinitperiod},
-           given={Torgin},
-           giveni={T\bibinitperiod}}}%
-        {{hash=50f8f91b343813b198a0b3f0f7c050ae}{%
-           family={Nadahalli},
-           familyi={N\bibinitperiod},
-           given={Tejaswi},
-           giveni={T\bibinitperiod}}}%
-        {{hash=5c162b9d03517a96680df0dc8d8263eb}{%
-           family={Wattenhofer},
-           familyi={W\bibinitperiod},
-           given={Roger},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{0dfa611b56902aa5bb59ce0226183038}
-      \strng{fullhash}{0dfa611b56902aa5bb59ce0226183038}
-      \strng{bibnamehash}{0dfa611b56902aa5bb59ce0226183038}
-      \strng{authorbibnamehash}{0dfa611b56902aa5bb59ce0226183038}
-      \strng{authornamehash}{0dfa611b56902aa5bb59ce0226183038}
-      \strng{authorfullhash}{0dfa611b56902aa5bb59ce0226183038}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Cryptology ePrint Archive}
-      \field{title}{TWAP Oracle Attacks: Easier Done than Said?}
       \field{year}{2022}
     \endentry
     \entry{haber1990time}{inproceedings}{}
@@ -1069,8 +677,8 @@
       \strng{authorbibnamehash}{a92bf7134bdc53455b2ec958cb3ee8b9}
       \strng{authornamehash}{a92bf7134bdc53455b2ec958cb3ee8b9}
       \strng{authorfullhash}{a92bf7134bdc53455b2ec958cb3ee8b9}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Conference on the Theory and Application of Cryptography}
@@ -1094,8 +702,8 @@
       \strng{authornamehash}{1977190f018b398e43ede3de043de8ea}
       \strng{authorfullhash}{1977190f018b398e43ede3de043de8ea}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Duality: an excerpt}
@@ -1118,8 +726,8 @@
       \strng{authorbibnamehash}{18c5aebd992f5682308afb2ad8ef6cbc}
       \strng{authornamehash}{18c5aebd992f5682308afb2ad8ef6cbc}
       \strng{authorfullhash}{18c5aebd992f5682308afb2ad8ef6cbc}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Accounting Review}
@@ -1150,8 +758,8 @@
       \strng{authorbibnamehash}{2a9abf8e56a8ef7e58b1dada3c73beee}
       \strng{authornamehash}{2a9abf8e56a8ef7e58b1dada3c73beee}
       \strng{authorfullhash}{2a9abf8e56a8ef7e58b1dada3c73beee}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Business \& Management Review}
@@ -1176,8 +784,8 @@
       \strng{authorbibnamehash}{cd19e74cb4c4cfc565e01bd15e9094bb}
       \strng{authornamehash}{cd19e74cb4c4cfc565e01bd15e9094bb}
       \strng{authorfullhash}{cd19e74cb4c4cfc565e01bd15e9094bb}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 3090174}
@@ -1216,8 +824,8 @@
       \strng{authorbibnamehash}{0d0be1eac04e7ff93f5c1f55f4a22e1a}
       \strng{authornamehash}{0d0be1eac04e7ff93f5c1f55f4a22e1a}
       \strng{authorfullhash}{3f944e5341b911ad47d85b4f2a25c8cc}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Information Security}
@@ -1250,8 +858,8 @@
       \strng{authorbibnamehash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
       \strng{authornamehash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
       \strng{authorfullhash}{00afdaa2aaa504bb03ef4a4bfeb10b89}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{International Journal of Theoretical and Applied Finance}
@@ -1279,8 +887,8 @@
       \strng{authorbibnamehash}{2b4e9a0de50ec30410f33715b9c21021}
       \strng{authornamehash}{2b4e9a0de50ec30410f33715b9c21021}
       \strng{authorfullhash}{2b4e9a0de50ec30410f33715b9c21021}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Accounting Historians Journal}
@@ -1305,8 +913,8 @@
       \strng{authorbibnamehash}{8d22fe1381ea3649e13a573c10338d83}
       \strng{authornamehash}{8d22fe1381ea3649e13a573c10338d83}
       \strng{authorfullhash}{8d22fe1381ea3649e13a573c10338d83}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 3880186}
@@ -1335,8 +943,8 @@
       \strng{authorbibnamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
       \strng{authornamehash}{785a5108f23d07c3b3a4b1916e3d9b57}
       \strng{authorfullhash}{785a5108f23d07c3b3a4b1916e3d9b57}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Blockchain Analysis of the Bitcoin Market}
@@ -1407,8 +1015,8 @@
       \strng{authorbibnamehash}{5f5654d5fed163047d8749e38caa5d67}
       \strng{authornamehash}{5f5654d5fed163047d8749e38caa5d67}
       \strng{authorfullhash}{fb5013ff0bea92e598b4bfceebe91b23}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International conference on financial cryptography and data security}
@@ -1449,8 +1057,8 @@
       \strng{authorbibnamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authornamehash}{d68c320fadb62ba8f9425c03d80759a8}
       \strng{authorfullhash}{11f4ffc8e9003d9b5e85d9abb92bd50a}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Financial Cryptography and Data Security}
@@ -1476,8 +1084,8 @@
       \strng{authorbibnamehash}{d6fa497e4b1f574f08a65af5bc72bf5c}
       \strng{authornamehash}{d6fa497e4b1f574f08a65af5bc72bf5c}
       \strng{authorfullhash}{d6fa497e4b1f574f08a65af5bc72bf5c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Emerald Expert Briefings}
@@ -1507,8 +1115,8 @@
       \strng{authorbibnamehash}{f0e22c5bf5a9b38113d360334bcc8e6f}
       \strng{authornamehash}{f0e22c5bf5a9b38113d360334bcc8e6f}
       \strng{authorfullhash}{f0e22c5bf5a9b38113d360334bcc8e6f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International workshop on fast software encryption}
@@ -1516,6 +1124,65 @@
       \field{year}{2004}
       \field{pages}{371\bibrangedash 388}
       \range{pages}{18}
+    \endentry
+    \entry{mora2018bitcoin}{article}{}
+      \name{author}{7}{}{%
+        {{hash=39d995e5da1adfbb1b5103e57418648a}{%
+           family={Mora},
+           familyi={M\bibinitperiod},
+           given={Camilo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4b3cccce3c72e6a11c3f975783b85993}{%
+           family={Rollins},
+           familyi={R\bibinitperiod},
+           given={Randi\bibnamedelima L},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a66fd22277d66b895de7115e8540444e}{%
+           family={Taladay},
+           familyi={T\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod}}}%
+        {{hash=595ed341875117976440ca6346eadbe2}{%
+           family={Kantar},
+           familyi={K\bibinitperiod},
+           given={Michael\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=2232fcce168f4f6129b5ec28dbb3a2ea}{%
+           family={Chock},
+           familyi={C\bibinitperiod},
+           given={Mason\bibnamedelima K},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a28cf5b583ff7cdabb7a512c9d1964ff}{%
+           family={Shimada},
+           familyi={S\bibinitperiod},
+           given={Mio},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e02221dc432243c578c0c721cbfc48db}{%
+           family={Franklin},
+           familyi={F\bibinitperiod},
+           given={Erik\bibnamedelima C},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{adb32a0d8293b6cbe25c99f94de3356c}
+      \strng{fullhash}{25efe4003a02b504f9a2342018991fa1}
+      \strng{bibnamehash}{adb32a0d8293b6cbe25c99f94de3356c}
+      \strng{authorbibnamehash}{adb32a0d8293b6cbe25c99f94de3356c}
+      \strng{authornamehash}{adb32a0d8293b6cbe25c99f94de3356c}
+      \strng{authorfullhash}{25efe4003a02b504f9a2342018991fa1}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Climate Change}
+      \field{number}{11}
+      \field{title}{Bitcoin emissions alone could push global warming above 2 C}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{931\bibrangedash 933}
+      \range{pages}{3}
     \endentry
     \entry{cross2021greening}{article}{}
       \name{author}{2}{}{%
@@ -1536,8 +1203,8 @@
       \strng{authorbibnamehash}{10b78fa151b518f033a6808356605b81}
       \strng{authornamehash}{10b78fa151b518f033a6808356605b81}
       \strng{authorfullhash}{10b78fa151b518f033a6808356605b81}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{GREENING BITCOIN WITH INCENTIVE OFFSETS}
@@ -1557,8 +1224,8 @@
       \strng{authorbibnamehash}{cc1ed654d0f83852f99659b67429d1c7}
       \strng{authornamehash}{cc1ed654d0f83852f99659b67429d1c7}
       \strng{authorfullhash}{cc1ed654d0f83852f99659b67429d1c7}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Bitcoin is Venice}
@@ -1587,8 +1254,8 @@
       \strng{authorbibnamehash}{c469d16f6e8aceb32f1aadd3323f5895}
       \strng{authornamehash}{c469d16f6e8aceb32f1aadd3323f5895}
       \strng{authorfullhash}{c469d16f6e8aceb32f1aadd3323f5895}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Electrify: An Optimist's Playbook for Our Clean Energy Future}
@@ -1613,8 +1280,8 @@
       \strng{authorbibnamehash}{7888783bdb1a2ee32544d0a0d5ea0710}
       \strng{authornamehash}{7888783bdb1a2ee32544d0a0d5ea0710}
       \strng{authorfullhash}{7888783bdb1a2ee32544d0a0d5ea0710}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ideasmiths}
@@ -1626,6 +1293,49 @@
       \verb{url}
       \verb https://www.ideasmiths.net/wp-content/uploads/2022/02/LANCIUM_IS_ERCOT_flexDC_FINAL_2021.pdf
       \endverb
+    \endentry
+    \entry{bastian2021hedging}{article}{}
+      \name{author}{4}{}{%
+        {{hash=bcd8eb45b05f9cc111a8e97dfd502881}{%
+           family={Bastian-Pinto},
+           familyi={B\bibinithyphendelim P\bibinitperiod},
+           given={Carlos\bibnamedelima L},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1111cd68c5af8b9e0b719d1e21da006d}{%
+           family={Araujo},
+           familyi={A\bibinitperiod},
+           given={Felipe\bibnamedelimb V\bibnamedelimb de\bibnamedelima S},
+           giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=823c22ee75d28df0e34899574e0b4b21}{%
+           family={Brandão},
+           familyi={B\bibinitperiod},
+           given={Luiz\bibnamedelima E},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ac4c115da478d1b21362ae2b86dddec7}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Leonardo\bibnamedelima L},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{360797d29ca6304e913fc67358fdfe69}
+      \strng{fullhash}{45d51370f0cf36600e7faeb6b4531f53}
+      \strng{bibnamehash}{360797d29ca6304e913fc67358fdfe69}
+      \strng{authorbibnamehash}{360797d29ca6304e913fc67358fdfe69}
+      \strng{authornamehash}{360797d29ca6304e913fc67358fdfe69}
+      \strng{authorfullhash}{45d51370f0cf36600e7faeb6b4531f53}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Hedging renewable energy investments with Bitcoin mining}
+      \field{volume}{138}
+      \field{year}{2021}
+      \field{pages}{110520}
+      \range{pages}{1}
     \endentry
     \entry{baur2021bitcoin}{article}{}
       \name{author}{2}{}{%
@@ -1649,8 +1359,8 @@
       \strng{authorbibnamehash}{98526eb5477111524c3fb21910495fdd}
       \strng{authornamehash}{98526eb5477111524c3fb21910495fdd}
       \strng{authorfullhash}{98526eb5477111524c3fb21910495fdd}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Finance Research Letters}
@@ -1703,56 +1413,13 @@
       \strng{authorbibnamehash}{0eb3b40645f2d127a345c3711e42866f}
       \strng{authornamehash}{0eb3b40645f2d127a345c3711e42866f}
       \strng{authorfullhash}{c285e1a4384159d815985725e18bc4dc}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN 3700822}
       \field{title}{3rd global cryptoasset benchmarking study}
       \field{year}{2020}
-    \endentry
-    \entry{bastian2021hedging}{article}{}
-      \name{author}{4}{}{%
-        {{hash=bcd8eb45b05f9cc111a8e97dfd502881}{%
-           family={Bastian-Pinto},
-           familyi={B\bibinithyphendelim P\bibinitperiod},
-           given={Carlos\bibnamedelima L},
-           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=1111cd68c5af8b9e0b719d1e21da006d}{%
-           family={Araujo},
-           familyi={A\bibinitperiod},
-           given={Felipe\bibnamedelimb V\bibnamedelimb de\bibnamedelima S},
-           giveni={F\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=823c22ee75d28df0e34899574e0b4b21}{%
-           family={Brandão},
-           familyi={B\bibinitperiod},
-           given={Luiz\bibnamedelima E},
-           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=ac4c115da478d1b21362ae2b86dddec7}{%
-           family={Gomes},
-           familyi={G\bibinitperiod},
-           given={Leonardo\bibnamedelima L},
-           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{360797d29ca6304e913fc67358fdfe69}
-      \strng{fullhash}{45d51370f0cf36600e7faeb6b4531f53}
-      \strng{bibnamehash}{360797d29ca6304e913fc67358fdfe69}
-      \strng{authorbibnamehash}{360797d29ca6304e913fc67358fdfe69}
-      \strng{authornamehash}{360797d29ca6304e913fc67358fdfe69}
-      \strng{authorfullhash}{45d51370f0cf36600e7faeb6b4531f53}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
-      \field{title}{Hedging renewable energy investments with Bitcoin mining}
-      \field{volume}{138}
-      \field{year}{2021}
-      \field{pages}{110520}
-      \range{pages}{1}
     \endentry
     \entry{de2022revisiting}{article}{}
       \name{author}{4}{}{%
@@ -1788,8 +1455,8 @@
       \strng{authorbibnamehash}{374fe3d66157bc2554cd5d4d930114b2}
       \strng{authornamehash}{374fe3d66157bc2554cd5d4d930114b2}
       \strng{authorfullhash}{de7967e790a1a28d0c47ceb520056544}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Joule}
@@ -1810,8 +1477,8 @@
       \strng{authorbibnamehash}{cb3ea11d0c450909095bb5298ae419a9}
       \strng{authornamehash}{cb3ea11d0c450909095bb5298ae419a9}
       \strng{authorfullhash}{cb3ea11d0c450909095bb5298ae419a9}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Available at SSRN}
@@ -1850,8 +1517,8 @@
       \strng{authorbibnamehash}{53e8cb3845f18331c7d98294fab409f4}
       \strng{authornamehash}{53e8cb3845f18331c7d98294fab409f4}
       \strng{authorfullhash}{5817742d71d3c262288162bf0c46cff1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{the Journal of Finance}
@@ -1879,8 +1546,8 @@
       \strng{authorbibnamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authornamehash}{0cd5bbd149e4d6d600854c7f315a0dc9}
       \strng{authorfullhash}{0cd5bbd149e4d6d600854c7f315a0dc9}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Conference on the Theory and Application of Cryptology}
@@ -1906,8 +1573,8 @@
       \strng{authorbibnamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
       \strng{authornamehash}{b3d53ddcf5bac5ec57f03cce3976f96e}
       \strng{authorfullhash}{b3d53ddcf5bac5ec57f03cce3976f96e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Blocksize War: The battle for control over Bitcoin’s protocol rules}
@@ -1932,8 +1599,8 @@
       \strng{authorbibnamehash}{02157f4e7f286af5c370f029888cd383}
       \strng{authornamehash}{02157f4e7f286af5c370f029888cd383}
       \strng{authorfullhash}{02157f4e7f286af5c370f029888cd383}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The bitcoin lightning network: Scalable off-chain instant payments}
@@ -1961,8 +1628,8 @@
       \strng{authorbibnamehash}{dad27c9c51f4797d54b59cac65d08ec3}
       \strng{authornamehash}{dad27c9c51f4797d54b59cac65d08ec3}
       \strng{authorfullhash}{dad27c9c51f4797d54b59cac65d08ec3}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Lightning Network: Turning Bitcoin into Money}
@@ -1997,12 +1664,51 @@
       \strng{authorbibnamehash}{8d341f22b554ea877e841bac56f9211a}
       \strng{authornamehash}{8d341f22b554ea877e841bac56f9211a}
       \strng{authorfullhash}{13012dc8896781d1397b80eb26e2c7d4}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Short Paper: A Centrality Analysis of the Lightning Network}
       \field{year}{2022}
+    \endentry
+    \entry{https://doi.org/10.48550/arxiv.2208.01908}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=ad9b0df357c9c505d4b108383e9ef7eb}{%
+           family={Sguanci},
+           familyi={S\bibinitperiod},
+           given={Cosimo},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d1c90ebf509da5da2f408206aab64eb0}{%
+           family={Sidiropoulos},
+           familyi={S\bibinitperiod},
+           given={Anastasios},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{6c9d4eb3f97a164329c493ad84ca4792}
+      \strng{fullhash}{6c9d4eb3f97a164329c493ad84ca4792}
+      \strng{bibnamehash}{6c9d4eb3f97a164329c493ad84ca4792}
+      \strng{authorbibnamehash}{6c9d4eb3f97a164329c493ad84ca4792}
+      \strng{authornamehash}{6c9d4eb3f97a164329c493ad84ca4792}
+      \strng{authorfullhash}{6c9d4eb3f97a164329c493ad84ca4792}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mass Exit Attacks on the Lightning Network}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2208.01908
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2208.01908
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2208.01908
+      \endverb
+      \keyw{Cryptography and Security (cs.CR),Distributed,Parallel,and Cluster Computing (cs.DC),FOS: Computer and information sciences}
     \endentry
     \entry{moser2013inquiry}{inproceedings}{}
       \name{author}{3}{}{%
@@ -2031,8 +1737,8 @@
       \strng{authorbibnamehash}{c81d66467c1e75d1303fc933194ecfd5}
       \strng{authornamehash}{c81d66467c1e75d1303fc933194ecfd5}
       \strng{authorfullhash}{c81d66467c1e75d1303fc933194ecfd5}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{2013 APWG eCrime researchers summit}
@@ -2040,6 +1746,35 @@
       \field{year}{2013}
       \field{pages}{1\bibrangedash 14}
       \range{pages}{14}
+    \endentry
+    \entry{anderson2002free}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e027c8df89339344ddc4de634d17acf1}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{fullhash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{bibnamehash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{authorbibnamehash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{authornamehash}{e027c8df89339344ddc4de634d17acf1}
+      \strng{authorfullhash}{e027c8df89339344ddc4de634d17acf1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer}
+      \field{number}{6}
+      \field{title}{Free speech online and offline}
+      \field{volume}{35}
+      \field{year}{2002}
+      \field{pages}{28\bibrangedash 30}
+      \range{pages}{3}
     \endentry
     \entry{carlsten2016instability}{inproceedings}{}
       \name{author}{4}{}{%
@@ -2070,8 +1805,8 @@
       \strng{authorbibnamehash}{3f27eddce3a607e7c80192306357d060}
       \strng{authornamehash}{3f27eddce3a607e7c80192306357d060}
       \strng{authorfullhash}{21c98029c1148dfe2fa12d4ee18a436f}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security}
@@ -2107,8 +1842,8 @@
       \strng{authorbibnamehash}{6636241e9ba636217a3b215ef8d84bff}
       \strng{authornamehash}{6636241e9ba636217a3b215ef8d84bff}
       \strng{authorfullhash}{6636241e9ba636217a3b215ef8d84bff}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Annual International Conference on the Theory and Applications of Cryptographic Techniques}
@@ -2116,6 +1851,145 @@
       \field{year}{2019}
       \field{pages}{657\bibrangedash 689}
       \range{pages}{33}
+    \endentry
+    \entry{homer1996history}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7d6b5035380d9ab1b8d9de0ab9f33916}{%
+           family={Homer},
+           familyi={H\bibinitperiod},
+           given={Sidney},
+           giveni={S\bibinitperiod}}}%
+        {{hash=cd42bc9cc5b8484199bfc2f973e8193b}{%
+           family={Sylla},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima Eugene},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Rutgers University Press}%
+      }
+      \strng{namehash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{fullhash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{bibnamehash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{authorbibnamehash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{authornamehash}{a5220d7f263511e5e66b6059a626d837}
+      \strng{authorfullhash}{a5220d7f263511e5e66b6059a626d837}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A history of interest rates}
+      \field{year}{1996}
+    \endentry
+    \entry{szabo2002shelling}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7a8fa37f931a316fe587067d55ea90fb}{%
+           family={Szabo},
+           familyi={S\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{fullhash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{bibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authorbibnamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authornamehash}{7a8fa37f931a316fe587067d55ea90fb}
+      \strng{authorfullhash}{7a8fa37f931a316fe587067d55ea90fb}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Satoshi Nakamoto Institute}
+      \field{title}{Shelling out: the origins of money}
+      \field{year}{2002}
+    \endentry
+    \entry{selgin1996defense}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2784a1653035b369ea01a2d6ac1fec0e}{%
+           family={Selgin},
+           familyi={S\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod}}}%
+        {{hash=1eac381d39fe1a37ae7a9dd3a6143385}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Lawrence\bibnamedelima H},
+           giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{b3e241872fba2b58f720adc2b01f5a4d}
+      \strng{fullhash}{b3e241872fba2b58f720adc2b01f5a4d}
+      \strng{bibnamehash}{b3e241872fba2b58f720adc2b01f5a4d}
+      \strng{authorbibnamehash}{b3e241872fba2b58f720adc2b01f5a4d}
+      \strng{authornamehash}{b3e241872fba2b58f720adc2b01f5a4d}
+      \strng{authorfullhash}{b3e241872fba2b58f720adc2b01f5a4d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Review of Austrian Economics}
+      \field{number}{2}
+      \field{title}{In defense of fiduciary media—or, we arenot devo (lutionists), we are Misesians!}
+      \field{volume}{9}
+      \field{year}{1996}
+      \field{pages}{83\bibrangedash 107}
+      \range{pages}{25}
+    \endentry
+    \entry{barsky1987fisher}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b3c0b9bea23096193e5c349e2546e0fe}{%
+           family={Barsky},
+           familyi={B\bibinitperiod},
+           given={Robert\bibnamedelima B},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{fullhash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{bibnamehash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{authorbibnamehash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{authornamehash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \strng{authorfullhash}{b3c0b9bea23096193e5c349e2546e0fe}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of monetary Economics}
+      \field{number}{1}
+      \field{title}{The Fisher hypothesis and the forecastability and persistence of inflation}
+      \field{volume}{19}
+      \field{year}{1987}
+      \field{pages}{3\bibrangedash 24}
+      \range{pages}{22}
+    \endentry
+    \entry{hall2009inflation}{book}{}
+      \name{author}{1}{}{%
+        {{hash=77c1ed02c587f0e6bce66c7ab5b5ea39}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Robert\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{fullhash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{bibnamehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{authorbibnamehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{authornamehash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \strng{authorfullhash}{77c1ed02c587f0e6bce66c7ab5b5ea39}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Inflation: causes and effects}
+      \field{year}{2009}
     \endentry
     \entry{davies2010history}{book}{}
       \name{author}{1}{}{%
@@ -2299,8 +2173,8 @@
       \strng{authorbibnamehash}{a8f4f2a49f22416de8db5f639af33b64}
       \strng{authornamehash}{a8f4f2a49f22416de8db5f639af33b64}
       \strng{authorfullhash}{a8f4f2a49f22416de8db5f639af33b64}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Remarks at the Jackson Hole Symposium}
@@ -2322,8 +2196,8 @@
       \strng{authorbibnamehash}{6332254e093b61afcd149b75e35e341e}
       \strng{authornamehash}{6332254e093b61afcd149b75e35e341e}
       \strng{authorfullhash}{6332254e093b61afcd149b75e35e341e}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{World Bank Policy Research Working Paper}
@@ -2353,8 +2227,8 @@
       \strng{authorbibnamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authornamehash}{3042dc4038843c1272ef20e3c7fc9411}
       \strng{authorfullhash}{3042dc4038843c1272ef20e3c7fc9411}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Gold and the Turning of the Monetary Tides}
@@ -2380,8 +2254,8 @@
       \strng{authorbibnamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authornamehash}{ceb9bf68fccb64928a082ddf62bb168e}
       \strng{authorfullhash}{ceb9bf68fccb64928a082ddf62bb168e}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Asia-Pacific Journal}
@@ -2409,8 +2283,8 @@
       \strng{authorbibnamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authornamehash}{2757267655a8e2d265367ee28326f581}
       \strng{authorfullhash}{2757267655a8e2d265367ee28326f581}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{China Economic Review}
@@ -2660,12 +2534,40 @@
       \strng{authorbibnamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authornamehash}{bfb8d2bb070d9ca205932dede8e3853f}
       \strng{authorfullhash}{bfb8d2bb070d9ca205932dede8e3853f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Future of Money: How the Digital Revolution is Transforming Currencies and Finance}
       \field{year}{2021}
+    \endentry
+    \entry{ponzi2021alden}{other}{}
+      \name{author}{1}{}{%
+        {{hash=98ddf16a82be76d96f6be0e4fac15aaa}{%
+           family={Alden},
+           familyi={A\bibinitperiod},
+           given={Lyn},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{fullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{bibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authorbibnamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authornamehash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \strng{authorfullhash}{98ddf16a82be76d96f6be0e4fac15aaa}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{blogarticle}
+      \field{title}{Bitcoin: Addressing the Ponzi Scheme Characterization}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.lynalden.com/bitcoin-ponzi-scheme/
+      \endverb
+      \verb{url}
+      \verb https://www.lynalden.com/bitcoin-ponzi-scheme/
+      \endverb
     \endentry
     \entry{maurel2012keynesian}{article}{}
       \name{author}{2}{}{%
@@ -2689,8 +2591,8 @@
       \strng{authorbibnamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authornamehash}{af8695065272fc2c1ff681f981c353b1}
       \strng{authorfullhash}{af8695065272fc2c1ff681f981c353b1}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Open Economies Review}
@@ -2718,8 +2620,8 @@
       \strng{authorbibnamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authornamehash}{7afa24b41101598853c9f506dce425c4}
       \strng{authorfullhash}{7afa24b41101598853c9f506dce425c4}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Layered Money}
@@ -2992,8 +2894,8 @@
       \strng{authorbibnamehash}{5654ccd726dd2cd1aeb2383476790b32}
       \strng{authornamehash}{5654ccd726dd2cd1aeb2383476790b32}
       \strng{authorfullhash}{5654ccd726dd2cd1aeb2383476790b32}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The economic limits of bitcoin and the blockchain}
@@ -3024,12 +2926,36 @@
       \strng{authorbibnamehash}{812b435e65b1f74e201dde7520dff995}
       \strng{authornamehash}{812b435e65b1f74e201dde7520dff995}
       \strng{authorfullhash}{812b435e65b1f74e201dde7520dff995}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{arXiv preprint arXiv:2203.15930}
       \field{title}{Extracting Godl [sic] from the Salt Mines: Ethereum Miners Extracting Value}
+      \field{year}{2022}
+    \endentry
+    \entry{cryptopians}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d1e996d8dda90032d4a4b7867021c7f7}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Public Affairs}%
+      }
+      \strng{namehash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{fullhash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{bibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{authorbibnamehash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{authornamehash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \strng{authorfullhash}{d1e996d8dda90032d4a4b7867021c7f7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze}
       \field{year}{2022}
     \endentry
     \entry{king1966fisher}{article}{}
@@ -3246,8 +3172,8 @@
       \strng{authorbibnamehash}{6f714023b42eaec0fe07e273d0fa3733}
       \strng{authornamehash}{6f714023b42eaec0fe07e273d0fa3733}
       \strng{authorfullhash}{6f714023b42eaec0fe07e273d0fa3733}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Computer Animation and Virtual Worlds}
@@ -3275,8 +3201,8 @@
       \strng{authorbibnamehash}{80c5dad8120e8938aa4faa2e41feafcb}
       \strng{authornamehash}{80c5dad8120e8938aa4faa2e41feafcb}
       \strng{authorfullhash}{80c5dad8120e8938aa4faa2e41feafcb}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{NYL Sch. L. Rev.}
@@ -3303,8 +3229,8 @@
       \strng{authorbibnamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authornamehash}{4dc214c859a01c74a067082d181d6afd}
       \strng{authorfullhash}{4dc214c859a01c74a067082d181d6afd}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Avatars, Affordances, and Interfaces: Virtual Reality Tools for Learning.}
@@ -6630,8 +6556,8 @@
       \strng{authorbibnamehash}{57eb5e9232000240c0126870cb0b8b70}
       \strng{authornamehash}{57eb5e9232000240c0126870cb0b8b70}
       \strng{authorfullhash}{57eb5e9232000240c0126870cb0b8b70}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In development, children often use gesture to communicate before they use words. The question is whether these gestures merely precede language development or are fundamentally tied to it. We examined 10 children making the transition from single words to two-word combinations and found that gesture had a tight relation to the children's lexical and syntactic development. First, a great many of the lexical items that each child produced initially in gesture later moved to that child's verbal lexicon. Second, children who were first to produce gesture-plus-word combinations conveying two elements in a proposition (point at bird and say ``nap'') were also first to produce two-word combinations (``bird nap''). Changes in gesture thus not only predate but also predict changes in language, suggesting that early gesture may be paving the way for future developments in language.}
@@ -6682,8 +6608,8 @@
       \strng{editorbibnamehash}{cbb884c17cf0c264fe96a365c74fab2c}
       \strng{editornamehash}{cbb884c17cf0c264fe96a365c74fab2c}
       \strng{editorfullhash}{cbb884c17cf0c264fe96a365c74fab2c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Publisher Summary This chapter explores how gestures contribute to comprehension, how gesturing affect speech and what can be learned from studying conversational gestures. The primary function of conversational hand gestures is to aid in the formulation of speech. Gestures can convey nonsemantic information. The study of speech and gestures overlaps with the study of person perception and attribution processes. The significance of gestures can be ambiguous and will affect the meanings and consequences to the observed gestures. A topology of gestures is adopters, symbolic gestures, and conversational gestures. Different types of conversational gestures can be distinguished as---namely, motor movements and lexical movements. Conversational hand gestures have been assumed to convey semantic information. Several studies that attempt to assess the kinds of information conversational gestures convey to naive observers and the extent to which gestures enhance the communicativeness of spoken messages are described in the chapter.}
@@ -10369,8 +10295,8 @@
       \strng{authorbibnamehash}{6c14a5a8cf0f232db5dbc684782d622d}
       \strng{authornamehash}{6c14a5a8cf0f232db5dbc684782d622d}
       \strng{authorfullhash}{6c14a5a8cf0f232db5dbc684782d622d}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Proceedings of the 3rd {ACM/IEEE} international conference on Human robot interaction}
@@ -10404,8 +10330,8 @@
       \strng{authorbibnamehash}{32f02b1387856ff9e40e6969b7803463}
       \strng{authornamehash}{32f02b1387856ff9e40e6969b7803463}
       \strng{authorfullhash}{32f02b1387856ff9e40e6969b7803463}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The Uncanny Valley Hypothesis (UVH) describes the sudden change in a person's affect from affinity to aversion that is evoked by robots that border a human-like appearance. The portion of the human-likeness spectrum in which such aversion is posited to occur is referred to as the ``uncanny valley''. However, evidence in support of the UVH is primarily based on subjectively assessed evaluations. Thus it remains an open question as to whether there are behavioral or neurophysiological manifestations of uncanny valley effects. To address this gap in literature, we investigated the activation of the anterior prefrontal cortex (PFC) - a region of the brain associated with emotion regulation - in response to a series of robots with varying human-likeness. We hypothesized that highly human-like robots - which have been found to receive negative subjective attributions - will also elicit increased activity in the PFC versus humans or robots with lesser degrees of human-likeness in accordance with the UVH. Our results show a ``valley'' in brain activity in the PFC corresponding to the valley observed via subjective measures alone, thus suggesting one neural manifestation (the PFC) of uncanny valley effects and further supporting the affective response (aversion) posited to occur by the UVH. However, the results also reveal a second ``uncanny valley'' in prefrontal hemodynamics, which suggests that the effects (and the contributing factors) are more complex than previously understood.}
@@ -11756,59 +11682,6 @@
       \field{title}{Facebook and the creation of the metaverse: radical business model innovation or incremental transformation?}
       \field{year}{2022}
     \endentry
-    \entry{heiphetz2010training}{book}{}
-      \name{author}{2}{}{%
-        {{hash=a18fcecdc4d0ca5500edb96d02b3348a}{%
-           family={Heiphetz},
-           familyi={H\bibinitperiod},
-           given={Alex},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2baa2873e9c7d21b661df54a0af1e042}{%
-           family={Woodill},
-           familyi={W\bibinitperiod},
-           given={Gary},
-           giveni={G\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {McGraw Hill Professional}%
-      }
-      \strng{namehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
-      \strng{fullhash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
-      \strng{bibnamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
-      \strng{authorbibnamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
-      \strng{authornamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
-      \strng{authorfullhash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Training and collaboration with virtual worlds: How to create cost-saving, efficient and engaging programs}
-      \field{year}{2010}
-    \endentry
-    \entry{aldrich2005learning}{book}{}
-      \name{author}{1}{}{%
-        {{hash=5a8134e026faf8204184f1fbbad0ec90}{%
-           family={Aldrich},
-           familyi={A\bibinitperiod},
-           given={Clark},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {John Wiley \& Sons}%
-      }
-      \strng{namehash}{5a8134e026faf8204184f1fbbad0ec90}
-      \strng{fullhash}{5a8134e026faf8204184f1fbbad0ec90}
-      \strng{bibnamehash}{5a8134e026faf8204184f1fbbad0ec90}
-      \strng{authorbibnamehash}{5a8134e026faf8204184f1fbbad0ec90}
-      \strng{authornamehash}{5a8134e026faf8204184f1fbbad0ec90}
-      \strng{authorfullhash}{5a8134e026faf8204184f1fbbad0ec90}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Learning by doing: A comprehensive guide to simulations, computer games, and pedagogy in e-learning and other educational experiences}
-      \field{year}{2005}
-    \endentry
     \entry{gadekallu2022blockchain}{article}{}
       \name{author}{8}{}{%
         {{hash=7ac9945d951cbe5c1fe607093cfc29c4}{%
@@ -11901,6 +11774,59 @@
       \field{year}{2021}
       \field{pages}{2066}
       \range{pages}{1}
+    \endentry
+    \entry{heiphetz2010training}{book}{}
+      \name{author}{2}{}{%
+        {{hash=a18fcecdc4d0ca5500edb96d02b3348a}{%
+           family={Heiphetz},
+           familyi={H\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2baa2873e9c7d21b661df54a0af1e042}{%
+           family={Woodill},
+           familyi={W\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw Hill Professional}%
+      }
+      \strng{namehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{fullhash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{bibnamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{authorbibnamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{authornamehash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \strng{authorfullhash}{c3dfaab69ae4bf768f79dfc9aefb0c5e}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Training and collaboration with virtual worlds: How to create cost-saving, efficient and engaging programs}
+      \field{year}{2010}
+    \endentry
+    \entry{aldrich2005learning}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5a8134e026faf8204184f1fbbad0ec90}{%
+           family={Aldrich},
+           familyi={A\bibinitperiod},
+           given={Clark},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley \& Sons}%
+      }
+      \strng{namehash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{fullhash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{bibnamehash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{authorbibnamehash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{authornamehash}{5a8134e026faf8204184f1fbbad0ec90}
+      \strng{authorfullhash}{5a8134e026faf8204184f1fbbad0ec90}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Learning by doing: A comprehensive guide to simulations, computer games, and pedagogy in e-learning and other educational experiences}
+      \field{year}{2005}
     \endentry
     \entry{nightingale2022ai}{article}{}
       \name{author}{2}{}{%

@@ -13541,4 +13541,232 @@
 
 @Article{khazzaka2022bitcoin,
   author  = {KHAZZAKA, Michel},
-  journal = {Avai
+  journal = {Available at SSRN},
+  title   = {Bitcoin: Cryptopayments Energy Efficiency},
+  year    = {2022},
+}
+
+@InCollection{gibson2019neuromancer,
+  author    = {Gibson, William},
+  booktitle = {Crime and Media},
+  publisher = {Routledge},
+  title     = {Neuromancer (1984)},
+  year      = {2019},
+  pages     = {86--94},
+}
+
+@Article{de1990positive,
+  author    = {De Long, J Bradford and Shleifer, Andrei and Summers, Lawrence H and Waldmann, Robert J},
+  journal   = {the Journal of Finance},
+  title     = {Positive feedback investment strategies and destabilizing rational speculation},
+  year      = {1990},
+  number    = {2},
+  pages     = {379--395},
+  volume    = {45},
+  publisher = {Wiley Online Library},
+}
+
+@InProceedings{kwon2019impossibility,
+  author    = {Kwon, Yujin and Liu, Jian and Kim, Minjeong and Song, Dawn and Kim, Yongdae},
+  booktitle = {Proceedings of the 1st ACM Conference on Advances in Financial Technologies},
+  title     = {Impossibility of full decentralization in permissionless blockchains},
+  year      = {2019},
+  pages     = {110--123},
+}
+
+@Article{piet2022extracting,
+  author  = {Piet, Julien and Fairoze, Jaiden and Weaver, Nicholas},
+  journal = {arXiv preprint arXiv:2203.15930},
+  title   = {Extracting Godl [sic] from the Salt Mines: Ethereum Miners Extracting Value},
+  year    = {2022},
+}
+
+@InProceedings{apostolaki2017hijacking,
+  author       = {Apostolaki, Maria and Zohar, Aviv and Vanbever, Laurent},
+  booktitle    = {2017 IEEE symposium on security and privacy (SP)},
+  title        = {Hijacking bitcoin: Routing attacks on cryptocurrencies},
+  year         = {2017},
+  organization = {IEEE},
+  pages        = {375--392},
+}
+
+@Book{bitcoinisvenice,
+  author = {Allen Farrington, Sacha Meyers},
+  title  = {Bitcoin is Venice},
+  year   = {2022},
+  url    = {https://www.uncerto.com/book-pdf},
+}
+
+@Article{authenticVolume2022,
+  author  = {Chen Cao and Tomas Simon and Jin Kyu Kim and others},
+  journal = {ACM Transactions in Graphics},
+  title   = {Authentic Volume Avatars from Phone Scans},
+  year    = {2022},
+  url     = {https://drive.google.com/file/d/1i4NJKAggS82wqMamCJ1OHRGgViuyoY6R},
+}
+
+@Article{poelstra2015stake,
+  author  = {Poelstra, Andrew},
+  journal = {WP Software},
+  title   = {On stake and consensus},
+  year    = {2015},
+  pages   = {29},
+  volume  = {22},
+}
+
+@Article{divakaruni2022lightning,
+  author    = {Divakaruni, Anantha and Zimmerman, Peter},
+  title     = {The Lightning Network: Turning Bitcoin into Money},
+  year      = {2022},
+  publisher = {FRB of Cleveland Working Paper},
+}
+
+@Book{Srinivasan2022,
+  author    = {Balaji Srinivasan},
+  publisher = {Amazon},
+  title     = {The Network State: How To Start A New Country},
+  year      = {2022},
+  url       = {https://balajis.com/the-network-state-book-a-crosspost/},
+}
+
+@Book{grewal2020struggling,
+  author    = {Grewal, Subir},
+  publisher = {Subir Grewal},
+  title     = {Struggling Amidst Plenty: A Layperson’s Guide to Our Awful Monetary System, Why it’s the Root Cause of Inequality, Debt, and “Too Big to Fail,” \& The Little-Known Way to Fix it},
+  year      = {2020},
+}
+
+@Book{booth2022bitcoin,
+  author    = {Svanholm, K. Booth, J. and Shilling, M. and Laamanen, N.},
+  publisher = {Amazon Digital Services LLC - KDP Print US},
+  title     = {Bitcoin: Everything Divided by 21 Million},
+  year      = {2022},
+  isbn      = {9789916697191},
+  url       = {https://books.google.co.uk/books?id=14onzwEACAAJ},
+}
+
+@Article{park2022metaverse,
+  author    = {Park, Sang-Min and Kim, Young-Gab},
+  journal   = {Ieee Access},
+  title     = {A Metaverse: Taxonomy, components, applications, and open challenges},
+  year      = {2022},
+  pages     = {4209--4251},
+  volume    = {10},
+  publisher = {IEEE},
+}
+
+@Article{mystakidis2022metaverse,
+  author    = {Mystakidis, Stylianos},
+  journal   = {Encyclopedia},
+  title     = {Metaverse},
+  year      = {2022},
+  number    = {1},
+  pages     = {486--497},
+  volume    = {2},
+  publisher = {MDPI},
+}
+
+@Article{xi2022challenges,
+  author    = {Xi, Nannan and Chen, Juan and Gama, Filipe and Riar, Marc and Hamari, Juho},
+  journal   = {Information Systems Frontiers},
+  title     = {The challenges of entering the metaverse: An experiment on the effect of extended reality on workload},
+  year      = {2022},
+  pages     = {1--22},
+  publisher = {Springer},
+}
+
+@Article{kraus2022facebook,
+  author    = {Kraus, Sascha and Kanbach, Dominik K and Krysta, Peter M and Steinhoff, Maurice M and Tomini, Nino},
+  journal   = {International Journal of Entrepreneurial Behavior \& Research},
+  title     = {Facebook and the creation of the metaverse: radical business model innovation or incremental transformation?},
+  year      = {2022},
+  publisher = {Emerald Publishing Limited},
+}
+
+@Article{biener2022quantifying,
+  author  = {Biener, Verena and Kalamkar, Snehanjali and Nouri, Negar and Ofek, Eyal and Pahud, Michel and Dudley, John J and Hu, Jinghui and Kristensson, Per Ola and Weerasinghe, Maheshya and {\v{C}}opi{\v{c}} Pucihar, Klen and others},
+  journal = {arXiv e-prints},
+  title   = {Quantifying the Effects of Working in VR for One Week},
+  year    = {2022},
+  pages   = {arXiv--2206},
+}
+
+@Article{ondrejka2004escaping,
+  author    = {Ondrejka, Cory},
+  journal   = {NYL Sch. L. Rev.},
+  title     = {Escaping the gilded cage: User created content and building the metaverse},
+  year      = {2004},
+  pages     = {81},
+  volume    = {49},
+  publisher = {HeinOnline},
+}
+
+@Article{siyaev2021towards,
+  author    = {Siyaev, Aziz and Jo, Geun-Sik},
+  journal   = {Sensors},
+  title     = {Towards aircraft maintenance metaverse using speech interactions with virtual objects in mixed reality},
+  year      = {2021},
+  number    = {6},
+  pages     = {2066},
+  volume    = {21},
+  publisher = {MDPI},
+}
+
+@Article{nevelsteen2018virtual,
+  author    = {Nevelsteen, Kim JL},
+  journal   = {Computer Animation and Virtual Worlds},
+  title     = {Virtual world, defined from a technological perspective and applied to video games, mixed reality, and the Metaverse},
+  year      = {2018},
+  number    = {1},
+  pages     = {e1752},
+  volume    = {29},
+  publisher = {Wiley Online Library},
+}
+
+@TechReport{barrero2021working,
+  author      = {Barrero, Jose Maria and Bloom, Nicholas and Davis, Steven J},
+  institution = {National Bureau of Economic Research},
+  title       = {Why working from home will stick},
+  year        = {2021},
+}
+
+@InProceedings{Drobyshev22MP,
+  author  = {Drobyshev, Nikita and Chelishev, Jenya and Khakhulin, Taras and Ivakhnenko, Aleksei and Lempitsky, Victor and Zakharov, Egor},
+  title   = {MegaPortraits: One-shot Megapixel Neural Head Avatars},
+  year    = {2022},
+  journal = {Proceedings of the 30th ACM International Conference on Multimedia},
+}
+
+@Article{BenSasson2022,
+  author  = {Sasson, Eli Ben and Carmon, Dan and Kopparty, Swastik and Levit, David},
+  journal = {TR22 110},
+  title   = {Scalable and transparent proofs over all large fields via elliptic curves},
+  year    = {2022},
+}
+
+@article{chen2020survey,
+  title={A survey on ethereum systems security: Vulnerabilities, attacks, and defenses},
+  author={Chen, Huashan and Pendleton, Marcus and Njilla, Laurent and Xu, Shouhuai},
+  journal={ACM Computing Surveys (CSUR)},
+  volume={53},
+  number={3},
+  pages={1--43},
+  year={2020},
+  publisher={ACM New York, NY, USA}
+}
+
+@Misc{https://doi.org/10.48550/arxiv.2208.01908,
+  author    = {Sguanci, Cosimo and Sidiropoulos, Anastasios},
+  title     = {Mass Exit Attacks on the Lightning Network},
+  year      = {2022},
+  copyright = {Creative Commons Attribution 4.0 International},
+  doi       = {10.48550/ARXIV.2208.01908},
+  keywords  = {Cryptography and Security (cs.CR), Distributed, Parallel, and Cluster Computing (cs.DC), FOS: Computer and information sciences},
+  publisher = {arXiv},
+  url       = {https://arxiv.org/abs/2208.01908},
+}
+
+@Article{anderson2002free,
+  author    = {Anderson, Ross},
+  journal   = {Computer},
+  title     

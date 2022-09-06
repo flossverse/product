@@ -21,7 +21,7 @@ Distributed identity / self sovereign identity has been extensively researched f
 \end{figure}. 
 Moreover the minimal implementation of such proposed systems hints at a \href{https://www.w3.org/community/perma-id/}{federated model} of centralised `truth' to enable persistence of identifiers over time.\\
 The major failing of the DID/SSI work to date is a lack of meaningful use cases with incentives for adoption. This is clearly explained by Lockwood \cite{lockwood2021exploring} who proposes that the pathway to adoption of `classic' DID/SSI requires an incentive over and above the current identity management on the web. Being distributed is not enough. Especially in the light of questionable assurances of this even being true.\\
-Perhaps most concerning is this \href{https://lists.w3.org/Archives/Public/public-credentials/2022Mar/thread.html}{recent exchange} on the mailing lists. Here, the two inventors of DID say the following:\\
+Perhaps most concerning is this \href{https://lists.w3.org/Archives/Public/public-credentials/2022Mar/thread.html}{recent exchange} on the mailing lists. Here, two long standing developers of DID say the following:\\
 \textit{``Not a single entity I know that's doing production deployments has actually vetted did:ion and found it to be production capable. This goes for every DLT-based DID Method out there - even the one we're working on. I am highly sceptical of anyone that says that any DID Method is ready for production usage at present.\\
 Agreed — as one of the proponents of DLTs (in particular permissionless public ones) none are mature enough yet for production.''}.
 It seems then that we can rule out use of these technologies?
@@ -38,7 +38,10 @@ All classic DID is underpinned by a DID document what bootstrap the services it'
 It is possible to log into a website using only Lighting, as in \href{https://stacker.news/login?callbackUrl=https://stacker.news/}{Stacker News}.
 \subsection{Slashtags}
 Slashtags is a new distributed identity open method being developed by Bitfinex and Tether under the Synonym suite. It uses Bitcoin keys for authentication, but communicates a schema through a metadata exchange.
-\subsection{Microsoft ION}
+\subsection{Web5 \& Microsoft ION}
+Promisingly Jack Dorsey's company TBD is working on a project \href{https://developer.tbd.website/projects/web5/}{called ``Web5''}. Details are scant but the promise is decentralised and/or self hosted data and identity running on Bitcoin, without recourse to a new token. \textit{``Components include decentralized identifiers (DIDs), decentralized web node (DWNs), self-sovereign identity service (SSIS) and a self-sovereign identity software development kit (ssi-sdk)''}.\par
+Web5 leverages the ION identity stack. All this looks to be exactly what our metaverse system requires, but the complexity is likely to be quite high as it is to be built on existing DID/SSI research which is pretty complex and perhaps has problems.
+\subsubsection{ION} 
 While working at Microsoft on ION Daniel Buchner (now working at Square) or Henry Tsai \href{https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md}{said the following}, which is worth quoting verbatim:\par
 ``While ledger-based consensus systems, on the surface, would seem to provide the same general features as one another, there are a few key differences that make some more suitable for critical applications, like the decentralized identifiers of human beings. Some of these considerations and features are:
 \begin{itemize}
@@ -75,8 +78,19 @@ Nostr is ``The simplest open protocol that is able to create a censorship-resist
 \item it can likely be scaled to provide one to many bulletin board style applications within the metaverse
 \item it can easily operate outside of the walled garden of the metaverse, extending the reach of the messages
 \end{itemize} 
-Nostr is incredibly promising, and integrating these relays in the metaverse servers and clients of the proposed technology stack in this book might allow us globally provable identity, with privacy by design. It can provide message passing. If all entities in the metaverse scenegraphs are also Nostr key pairs then schema can be applied consistently with the economic layer using the same key system as Bitcoin. A curated list of projects and libraries is \href{https://github.com/aljazceru/awesome-nostr}{available on github}.
-%\textbf{The proposed integration of Nostr, LnBit, Vircadia, and Bitcoin is the secret sauce of this book}. 
+Nostr is incredibly promising, and integrating these relays in the metaverse servers and clients of the proposed technology stack in this book might allow us globally provable identity, with privacy by design. It can provide message passing. If all entities in the metaverse scenegraphs are also Nostr key pairs then schema can be applied consistently with the economic layer using the same key system as Bitcoin. A curated list of projects and libraries is \href{https://github.com/aljazceru/awesome-nostr}{available on github}.\par
+\subsubsection{Anigma}
+Anigma is a Nostr based clone of popular messenger client Telegram. This provides a web2 interface into the metaverse providing:
+\begin{itemize}
+\item simple cryptographic identity assurance
+\item private peer to peer chat
+\item group chats and channels
+\item email to private message relay
+\item links into media on web2 hosts
+\end{itemize}
+The proposed integration of Nostr, LnBit, Vircadia, and Bitcoin is the core value proposition of this book, with Anigma the final component.
+\section{Federated social media trust}
+Keybase provides a model of \href{https://book.keybase.io/account#proofs}{importing proofs} from various social media sites. This allows importing of reputation into new ecosystems.
 \section{Micropayment based web}
 It seems the war against disinformation is now being lost. Much is written in the media about Deepfake technology creating plausible fake videos, but probably more pernicious is the use of toolkits to create entire plausible fake news sites using natural language AI such as GPT3. This makes it cheap to publish potentially market moving news which is then rehypothecated by online news vendors who are hungry for clicks. As these pipelines become more mature it will be difficult to keep fake news for financial or political gain out of the system. One interesting way to do this that \textit{isn't} webs of trust or true cryptographic identity is to charge micropayments for ``one to many'' publication models. This would imply a tiny instant payment for clicks, especially on social media sites such as twitter. This kind of model has been discussed but is only possible in the context of systems such as Lightning where instant micropayment can be realised. It seems possible that this would price out speculative `noise' spam from the information space. It's interesting and ironic that the origin of proof of work was to underpin just such a spam defeating system  \cite{dwork1992pricing}, and that Nakamoto \href{https://www.metzdowd.com/pipermail/cryptography/2009-January/015014.html}{mentioned this application for Bitcoin} back in 2009. There is now much chatter about the integration of Bitcoin with Twitter in light of Musks buyout of the social network.
 %\subsection{Open World assumption}
@@ -84,6 +98,7 @@ It seems the war against disinformation is now being lost. Much is written in th
 %------------------------------------------------
 %\section{File storage}
 %This is a tricky section as nothing seems to work. Come back later.
+%https://fiatjaf.com/d5031e5b.html
 \begin{figure}
 \includegraphics[width=\linewidth]{files}
   \caption{Comparison of distributed file stores}
@@ -91,9 +106,9 @@ It seems the war against disinformation is now being lost. Much is written in th
 \end{figure}. 
 \section{Risks \& Challenges?}
 Classic DID/SSI risks fragmentations. 
-In all DID scaling to a world where the user is managing potentially thousands of these critical cryptographic data files is daunting.
-Abstracting the guts of this away to make the user simple, and only caring about right level of information, turns out to be huge problem that nobody has solved
-It's not clear that users want this
-In the case of web of trust like Slashtags it's a big piece of work for the users to rate off of their digital interactions with a trust metric.
+In all DID applications, scaling to a world where the user is managing potentially thousands of these critical cryptographic data files is daunting.
+Abstracting the guts of this away to make the use simple, and only mindful of thet right level of information, turns out to be huge problem that nobody has solved
+It's not clear that users want this. 
+In the case of web of trust like Slashtags it's a big piece of work for the users to rate all of their digital interactions with a trust metric.
 
 
