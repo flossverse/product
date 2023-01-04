@@ -14,7 +14,7 @@ There are [few different options](https://vircadia.com/deploy-a-server/) to depl
 
 ### Prepare a virtual instance of Ubuntu 20.04 in the Proxmox Virtual Environment
 
-First, obtain the Ubuntu 20.04 desktop image.
+First, obtain the Ubuntu 22LTS desktop image.
 
 Then deploy a virtual machine in Proxmox VE as was done with VyOS and Debian in the previous sections. The following values were selected for this setup:
 
@@ -64,7 +64,7 @@ chmod +x vircadia-builder
 
 As this setup requires both the domain server and the ICE server, run the following:
 
-./vircadia-builder --build=server,ice-server
+sudo ./vircadia-builder --build=server,ice-server
 
 It is also possible to add a 'client' option but this was not opted for in this setup as the client was [Windows based](#Client-interface).
 
@@ -274,10 +274,11 @@ Receiving objects: 100% (5134/5134), 1.04 MiB | 1.10 MiB/s, done.
 Resolving deltas: 100% (3539/3539), done.
 ```
 
-Change to the vircadia-metaverse directory and run the following command:
+Change to the vircadia-metaverse directory and run the following commands:
 
 ```
 npm install
+npm run build
 ```
 
 Note: As of writing the Git tags were old so the latest commit was opted for.
@@ -544,7 +545,47 @@ You can take inspiration from:
 3) the file used in this setup:
 
 ```
-@todo: insert file
+{
+    "metaverse": {
+        "metaverse-name": "GM Cyber Foundry Metaverse",
+        "metaverse-nick-name": "GMCyberFoundryMetaverse",
+        "metaverse-server-url": "http://a.b.c.d:9400",
+        "default-ice-server-url": "a.b.c.d:7337",
+        "dashboard-url": ""
+    },
+    "server": {
+        "listen-host": "0.0.0.0",
+        "listen-port": 9400,
+        "key-file": "",
+        "cert-file": "",
+        "max-body-size": 300000,
+        "static-base": "/static",
+        "user-config-file": "./iamus.json",
+        "server-version": {
+            "version-tag": "1.1.1-20200101-abcdefg"
+        }
+    },
+    "monitoring": {
+        "enable": true,
+        "history": true
+    },
+    "database": {
+        "db-host": "localhost",
+        "db-port": 27017,
+        "db": "domainstore",
+        "db-user": "cadiauser",
+        "db-pw": "thepassword",
+        "db-authdb": "admin",
+        "db-connection": ""
+    },
+    "backup": {
+        "backup-user": "backuper",
+        "backup-pw": "thepassword",
+        "backup-dir": "",
+        "authenticationDatabase": ""
+    }
+}
+
 ```
 
 ### Configure port forwarding for the metaverse server
@@ -606,7 +647,7 @@ On the metaverse server open a terminal and run:
 ```
 cd vircadia-metaverse
 
-node/dist/index.ts
+node dist/index.ts
 ```
 
 #### ICE server
@@ -670,7 +711,7 @@ For the initial run the following was actioned:
 Open a terminal (PowerShell on Windows in this case), navigate to the folder containing the Vircadia executable and run:
 
 ```
-.\interface.exe --url 84.92.193.1
+.\interface.exe --url a.b.c.d
 ```
 
 Then in the interface navigate to File -> Metaverse: Login / Sign Up

@@ -53,10 +53,10 @@
 \usepackage{geometry} % Required for adjusting page dimensions and margins
 
 \geometry{
-	top=3cm, % Top margin
-	bottom=2.5cm, % Bottom margin
-	inner=3cm, % Inner margin (left on odd pages, right on even or left in oneside mode)
-	outer=3cm, % Outer margin (right on odd pages, left on even or right in oneside mode)
+	top=2cm, % Top margin
+	bottom=1.5cm, % Bottom margin
+	inner=2.5cm, % Inner margin (left on odd pages, right on even or left in oneside mode)
+	outer=2.5cm, % Outer margin (right on odd pages, left on even or right in oneside mode)
 	headsep=10pt, % Space from the top margin to the baseline of the header
 	headheight=0.5cm, % Header height
 	footskip=1.4cm, % Space from the bottom margin to the baseline of the footer

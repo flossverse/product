@@ -13769,4 +13769,241 @@
 @Article{anderson2002free,
   author    = {Anderson, Ross},
   journal   = {Computer},
-  title     
+  title     = {Free speech online and offline},
+  year      = {2002},
+  number    = {6},
+  pages     = {28--30},
+  volume    = {35},
+  publisher = {IEEE},
+}
+
+@Book{graeber2012debt,
+  author    = {Graeber, David},
+  publisher = {Penguin UK},
+  title     = {Debt: The first 5000 years},
+  year      = {2012},
+}
+
+@Book{homer1996history,
+  author    = {Homer, Sidney and Sylla, Richard Eugene},
+  publisher = {Rutgers University Press},
+  title     = {A history of interest rates},
+  year      = {1996},
+}
+
+@Article{szabo2002shelling,
+  author  = {Szabo, Nick},
+  journal = {Satoshi Nakamoto Institute},
+  title   = {Shelling out: the origins of money},
+  year    = {2002},
+}
+
+@Article{selgin1996defense,
+  author    = {Selgin, George and White, Lawrence H},
+  journal   = {The Review of Austrian Economics},
+  title     = {In defense of fiduciary media—or, we arenot devo (lutionists), we are Misesians!},
+  year      = {1996},
+  number    = {2},
+  pages     = {83--107},
+  volume    = {9},
+  publisher = {Springer},
+}
+
+@Article{mora2018bitcoin,
+  author    = {Mora, Camilo and Rollins, Randi L and Taladay, Katie and Kantar, Michael B and Chock, Mason K and Shimada, Mio and Franklin, Erik C},
+  journal   = {Nature Climate Change},
+  title     = {Bitcoin emissions alone could push global warming above 2 C},
+  year      = {2018},
+  number    = {11},
+  pages     = {931--933},
+  volume    = {8},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{barsky1987fisher,
+  author    = {Barsky, Robert B},
+  journal   = {Journal of monetary Economics},
+  title     = {The Fisher hypothesis and the forecastability and persistence of inflation},
+  year      = {1987},
+  number    = {1},
+  pages     = {3--24},
+  volume    = {19},
+  publisher = {Elsevier},
+}
+
+@Book{hall2009inflation,
+  author    = {Hall, Robert E},
+  publisher = {University of Chicago Press},
+  title     = {Inflation: causes and effects},
+  year      = {2009},
+}
+
+@Other{ponzi2021alden,
+  author  = {Alden, Lyn},
+  journal = {blogarticle},
+  title   = {Bitcoin: Addressing the Ponzi Scheme Characterization},
+  url     = {https://www.lynalden.com/bitcoin-ponzi-scheme/},
+  year    = {2021},
+}
+
+@InProceedings{rosenberg2022regulation,
+  author    = {Rosenberg, L},
+  booktitle = {Proceedings of the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022), Brisbane, Australia},
+  title     = {Regulation of the Metaverse: A Roadmap},
+  year      = {2022},
+  volume    = {1},
+}
+
+@Article{ball2020metaverse,
+  author  = {Ball, Matthew},
+  journal = {MatthewBall. Vc, available at: www. matthe wball. vc/all/themetaverse},
+  title   = {The Metaverse: what it is, where to find it, and who will build it},
+  year    = {2020},
+}
+
+@InProceedings{apostolaki2017hijacking,
+  author       = {Apostolaki, Maria and Zohar, Aviv and Vanbever, Laurent},
+  booktitle    = {2017 IEEE symposium on security and privacy (SP)},
+  title        = {Hijacking bitcoin: Routing attacks on cryptocurrencies},
+  year         = {2017},
+  organization = {IEEE},
+  pages        = {375--392},
+}
+
+@Article{apostolaki2016hijacking,
+  author  = {Apostolaki, Maria and Zohar, Aviv and Vanbever, Laurent},
+  journal = {arXiv preprint arXiv:1605.07524},
+  title   = {Hijacking bitcoin: Large-scale network attacks on cryptocurrencies},
+  year    = {2016},
+}
+
+@InProceedings{johnson2014game,
+  author       = {Johnson, Benjamin and Laszka, Aron and Grossklags, Jens and Vasek, Marie and Moore, Tyler},
+  booktitle    = {International Conference on Financial Cryptography and Data Security},
+  title        = {Game-theoretic analysis of DDoS attacks against Bitcoin mining pools},
+  year         = {2014},
+  organization = {Springer},
+  pages        = {72--86},
+}
+
+@Article{poole2022dreamfusion,
+  author  = {Poole, Ben and Jain, Ajay and Barron, Jonathan T. and Mildenhall, Ben},
+  journal = {arXiv},
+  title   = {DreamFusion: Text-to-3D using 2D Diffusion},
+  year    = {2022},
+}
+
+@InProceedings{anonymous2023phenaki,
+  author    = {Anonymous},
+  booktitle = {Submitted to The Eleventh International Conference on Learning Representations},
+  title     = {Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions},
+  year      = {2023},
+  note      = {under review},
+  url       = {https://openreview.net/forum?id=vOEXS39nOF},
+}
+
+@Article{ruiz2022dreambooth,
+  author    = {Ruiz, Nataniel and Li, Yuanzhen and Jampani, Varun and Pritch, Yael and Rubinstein, Michael and Aberman, Kfir},
+  title     = {DreamBooth: Fine Tuning Text-to-image Diffusion Models for Subject-Driven Generation},
+  year      = {2022},
+  booktitle = {arXiv preprint arxiv:2208.12242},
+}
+
+@Article{cagan1958demand,
+  author    = {Cagan, Phillip},
+  journal   = {Journal of political economy},
+  title     = {The demand for currency relative to the total money supply},
+  year      = {1958},
+  number    = {4},
+  pages     = {303--328},
+  volume    = {66},
+  publisher = {The University of Chicago Press},
+}
+
+@Article{torok2017cascading,
+  author    = {T{\"o}r{\"o}k, J{\'a}nos and Kert{\'e}sz, J{\'a}nos},
+  journal   = {Scientific reports},
+  title     = {Cascading collapse of online social networks},
+  year      = {2017},
+  number    = {1},
+  pages     = {1--8},
+  volume    = {7},
+  publisher = {Nature Publishing Group},
+}
+
+@Article{nair2022exploring,
+  author  = {Nair, Vivek and Garrido, Gonzalo Munilla and Song, Dawn},
+  journal = {arXiv preprint arXiv:2207.13176},
+  title   = {Exploring the Unprecedented Privacy Risks of the Metaverse},
+  year    = {2022},
+}
+
+@Article{ferranti2022hedging,
+  author  = {Ferranti, Matthew},
+  journal = {arXiv preprint arXiv},
+  title   = {Hedging Sanctions Risk: Cryptocurrency in Central Bank Reserves},
+  year    = {2022},
+  url     = {https://sites.google.com/view/matthewferranti/research},
+}
+
+@Article{bahdanau2014neural,
+  author  = {Bahdanau, Dzmitry and Cho, Kyunghyun and Bengio, Yoshua},
+  journal = {arXiv preprint arXiv:1409.0473},
+  title   = {Neural machine translation by jointly learning to align and translate},
+  year    = {2014},
+}
+
+@Article{RhodesJetal2021,
+  author  = {Rhodes J et al, Lancium},
+  journal = {Lancium},
+  title   = {Impacts of Large, Flexible Data Center Operations on the Future of ERCOT},
+  year    = {2021},
+  url     = {https://lancium.com/wp-content/uploads/2022/06/Lancium_Flexible_Data_Center_Whitepaper_4.2022.pdf},
+}
+
+@Article{borio2017fx,
+  author  = {Borio, Claudio EV and McCauley, Robert N and McGuire, Patrick},
+  journal = {BIS Quarterly Review September},
+  title   = {FX swaps and forwards: missing global debt?},
+  year    = {2017},
+}
+
+@Book{ball2022metaverse,
+  author    = {Ball, Matthew},
+  publisher = {Liveright Publishing},
+  title     = {The metaverse: and how it will revolutionize everything},
+  year      = {2022},
+}
+
+@Article{weyl2022decentralized,
+  author  = {Weyl, E Glen and Ohlhaver, Puja and Buterin, Vitalik},
+  journal = {Available at SSRN 4105763},
+  title   = {Decentralized Society: Finding Web3's Soul},
+  year    = {2022},
+}
+
+@Book{hudson2021destiny,
+  author  = {Hudson, M},
+  title   = {The destiny of civilization: finance capitalism, industrial capitalism or socialism},
+  year    = {2022},
+  journal = {Verlag, ISLET},
+}
+
+@Book{va2010neoconservatism,
+  author    = {Va'isse, Justin and Va{\"\i}sse, Justin},
+  publisher = {Harvard University Press},
+  title     = {Neoconservatism: The biography of a movement},
+  year      = {2010},
+}
+
+@InProceedings{radford2021learning,
+  author       = {Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and others},
+  booktitle    = {International Conference on Machine Learning},
+  title        = {Learning transferable visual models from natural language supervision},
+  year         = {2021},
+  organization = {PMLR},
+  pages        = {8748--8763},
+}
+
+@incollection{immerwahr202221,
+  title={21 The Galacti

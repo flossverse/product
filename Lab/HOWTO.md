@@ -396,8 +396,9 @@ Although the IP above will be assigned once the nix-bitcoin is deployed the inst
 
 ```
 $ ifconfig ens18 192.168.y.3
-$ ifconfig ens18 255.255.255.0
+$ ifconfig ens18 netmask 255.255.255.0
 $ ip route add 192.168.y.0/24 dev ens18 scope link src 192.168.y.3
+$ ip route add default via 192.168.y.1 dev ens18 proto static
 ```
 
 Then add the nameserver:

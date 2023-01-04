@@ -1,8 +1,15 @@
-This chapter identifies an intersectional space across the described technologies, and proposes a valuable and novel software stack, which can enable exploration  and product development. It is useful to briefly look at some of the potential applications which might benefit from value and trust exchange within an global shared social space.
+This chapter identifies an intersectional space across the described technologies, and proposes a valuable and novel software stack, which can enable exploration  and product development. It is useful to briefly look recap the book and the conclusions we have drawn so far.
 
 \input{08_metaverse_points}
 
 \section{Software stack}
+This section needs building out to describe the stack and the choices made, but can be seen in Figure \ref{fig:pyramind} and Figure \ref{fig:highlevelstack}.
+
+\begin{figure*}[ht]\centering 	\includegraphics[width=\linewidth]{pyramid}
+	\caption{Pyramid showing the components for sats, stablecoins on lightning, asssets, and trust}
+	\label{fig:pyramind}
+\end{figure*}
+
 \begin{figure*}[ht]\centering 	\includegraphics[width=\linewidth]{highlevelstack}
 	\caption{High level overview showing the components for sats, stablecoins on lightning, asssets, and trust}
 	\label{fig:highlevelstack}
@@ -24,15 +31,43 @@ Creating a narrative arrow from a remote director/producer/DP, through a VP scre
 By linking across these new systems with world class telepresence research we hope to use a single digital context to support senior stakeholders, creatives, technical teams, and the wider public.
 New paths to monetisation and digital ownership
 This unified digital back end is optimised for flows of money, trust, and digital objects. This is a new area for VP.
+Current workstreams:
+\begin{itemize}
+\item Storyboarding with text2img and dreambooth to add talent and costume ideas before meeting up, as demonstrated in this document \cite{ruiz2022dreambooth}.
+\item Collaborative, self hosted, high speed, low detail, economically and cryptographically enabled set design spaces, with near instant language translation (speech to text an speech to speech). Micropayment for cheap international labour. Technology agnostic. Use the screen, audio only, compressed video dial-in, headsets, tablet rendering: (this book).
+\item High end telepresence \cite{Roberts2015, OHare2018, Fairchild2017, OHare2016} into the studio/shoot from the virtual set, allowing high value stakeholders to be `present` on set as virtual collaborants with spatial descrimination allowing directional queues. This involved real time human capture like moveAI or the expensive rigs with DSLRs.
+\item Novel render pipeline for fast turnaround of final look and feel, taking the rough scene and applying img2img ML with the kind of interframe consistency we are starting to see from the video projects \cite{anonymous2023phenaki}.
+\item Text to model pipeline for interactively building key elements with senior stakeholders, pushed from post ideation the the  pre-shoot Unreal content creation \cite{poole2022dreamfusion}.
+\item All assets switch over to Unreal metaverse and become consistent (optimised) digital set which can be visited by stakeholders, funders, VIPs etc. Public can visit later for a fee? Digital assets can be bought from the set.
+\end{itemize}
+
+\section{Novel VP render pipeline}
+Putting the ML image generation on the end of a real-time tracked camera render pipeline might remove the need for detail in set building. To describe how this might work, the set designer, DP, director, etc will be able to ideate in a headset based metaverse of the set design, dropping very basic chairs, windows, light sources whatever. There is -no need- then to create a scene in detail. If the interframe consistency (img2img) can deliver then the output on the VP screen can simply inherit the artistic style from the text prompts, and render production quality from the basic building blocks. Everyone in the set (or just DP/director) could then switch in headset to the final output and ideate (verbally) to create the look and feel (lens, bokeh, light, artistic style etc). This isn’t ready yet as the frames need to generate much faster (100x), but it’s very likely coming in months not years. This ``next level pre-vis'' is being trailed by Pathway in the Vircadia collaborative environment described in this book, and can be seen illustrated in Figure \ref{fig:vircadiasd}.\par
+\begin{figure}[ht]\centering 	\includegraphics[width=\linewidth]{vircadiasd}
+	\caption{Top panel is a screen grab from Vircadia and the bottom panel is a quick pass through img2img from Stable Diffusion.}
+	\label{fig:vircadiasd}
+\end{figure}
+
+This can be done now through the use of camera robots. A scene can be built in basic outline, the camera tracks can be encoded into the robot, and the scene can be rapidly post rendered by Stability with high inter frame consistency.\par
+With the help of AI projects such as \href{https://nv-tlabs.github.io/LION/}{LION} it may be possible to pass simple geometry and instructions to ML systems which can create complex textured geometry back into the scene.
+\begin{figure}[ht]\centering 	\includegraphics[width=\linewidth]{robotvp}
+	\caption{Robot VP}
+	\label{fig:robotvp}
+\end{figure}
 
 \section{Money in metaverses}
+\subsubsection{Global collaboration and remuneration}
+In the book ``Ghosts of my life'' \cite{fisher2014ghosts} Fisher asserts that there has been a slowing, even a `cancellation' of creative progress in developed societies, their art, and their media. His contention is that neoliberalism itself is to blame. He says\\
+\textit{``It is the contention of this book that 21st-century culture is marked by the same anachronism and inertia which afflicted Sapphire and Steel in their final adventure. But this status has been buried, interred behind a superficial frenzy of ‘newness’, of perpetual movement. The ‘jumbling up of time’, the montaging of earlier eras, has ceased to be worthy of comment; it is now so prevalent that it is no longer even noticed.''}
+
+It is the feeling of the authors of this book that the creative and inspirational efforts of the whole world may be needed to heal these deep wounds. It is possible that by connecting creatives with very different global perspectives, directly into `Western' production pipelines, that we will be able to see the shape of this potential.
 \subsection{ML actors and blockchain based bots}
 Stablity AI is an open source imitative to bring ML/AL capabilities to the world. This is a hugely exciting emergent area and much more will be developed here.
 \subsection{AI economic actors in mixed reality}
-AI actors can now be trusted visually \cite{nightingale2022ai}. We have some thinking on this which links the external web to our proposed metaverse \href{https://melbotz.github.io/melbot_20220713/}{using tooling} developed by Melvin Carvelho. He is working on economically empowered bots which leverage Nostr and RGB to perform functions within our metaverse, and outside in the WWW, as well as interacting economically through trusted cryptography with other bots, anywhere, and human participants, anywhere. This is incredibly powerful and is assured by the Bitcoin security model. Imagine being able to interact with a bot flower seller representing all the real world florists it had found. In the metaverse you could handle the flowers and take advice and guidance from the bot agent, then it would be able to take your money to buy you flowers to send to a real world address, and later find you to tell you when it's delivered. These possibilities are endless. The AI chat element, the AI translation of images on websites to 3D assets in the Metaverse are difficult but possible challenges, but the secure movement of money from the local context in the metaverse to the real world is within reach using these bots, and they are completely autonomous and distributed.
+AI actors can now be trusted visually \cite{nightingale2022ai}. We have some thinking on this which links the external web to our proposed metaverse. There is work in the community working on economically empowered bots which leverage Nostr and RGB to perform functions within our metaverse, and outside in the WWW, as well as interacting economically through trusted cryptography with other bots, anywhere, and human participants, anywhere. This is incredibly powerful and is assured by the Bitcoin security model. Imagine being able to interact with a bot flower seller representing all the real world florists it had found. In the metaverse you could handle the flowers and take advice and guidance from the bot agent, then it would be able to take your money to buy you flowers to send to a real world address, and later find you to tell you when it's delivered. These possibilities are endless. The AI chat element, the AI translation of images on websites to 3D assets in the Metaverse are difficult but possible challenges, but the secure movement of money from the local context in the metaverse to the real world is within reach using these bots, and they are completely autonomous and distributed.
 \section{Our socialisation best practice}
 \subsubsection{Identity}
-We will base our identity and object management on Nostr public/private key pairs. The public key of these will generate LNBits economic wallets which will interact with RGB and Lightning globally.
+We will base our identity and object management on Nostr public/private key pairs. The public key of these enable lightning based exchange of value globally. Additional work will be needed to allow objects generated through RGB to be passed between federated worlds.
 \subsubsection{Webs of trust}
 Webs of trust will be built within worlds using economically costly (but private) social rating systems, between any actor, human or AI. It should be too costly to attack an individual aggressively. This implies an increased weighting for scores issued in short time periods. Poorly behaving AI's will eventually be excluded through lack of funds.
 \subsubsection{Integration of 'good' actor AI entities}
@@ -42,127 +77,12 @@ Gratitude practice should be encouraged between AI actors to foster trust and we
 \subsubsection{Behaviour incentives, arbitration, and penalties}
 Collapses of trust and abuse will trigger flags from ML based oversight, which will create situational records and payloads of involved parties to unlock with their nostr private keys. ML red flagged actors will be finacially penalised but have access to human arbitration using their copy of the data blob. Nothing will be stored except by the end users.
 \subsection{Federations of webs of trust and economics}
-Web2/3 enabled \href{https://bitbots.org}{`Bitbots'} by Melvin Carvalho, with their own money supply, should be able to carry data payloads between virtual worlds across all networks. This is an RGB/Nostr/Melbot problem space and requires more investigation. 
+Nostr is developing fast enough to provide global bridges between metaverse instances.
 \section{Security evaluation}
 As part of developing our stack we will penetration test the deployment as detailed using \href{https://hexway.io/}{Hexway}
-\section{Potential applications }
-\begin{itemize}
-\item Art / NFT galleries with instant sales
-\end{itemize}
 
-This application allows artists and content creator communities to
-display and sell NFT and fungible art to global consumer audiences,
-instantly.
-
-\begin{itemize}
-\item
-  Large scale conference center
-
-  \begin{itemize}
-  \item
-    Academic conferences
-  \item
-    Political conference
-  \item
-    Commercial expo
-  \end{itemize}
-\end{itemize}
-
-In a hypothetical virtual conference centre a true marketplace of ideas
-could be enacted, with participants being paid directly by their
-audience based on the proximity to the presentation.
-
-\begin{itemize}
-\item
-  Group entertainment
-
-  \begin{itemize}
-  \item Global social puzzle gaming with prizes
-  \item
-    Music festivals and gigs - Pay live artists and DJs in real time
-    depending on location within the extended landscape of the venue.
-    Split to music producer a portion of the value
-  \item
-    Mixed reality theatre
-  \item
-    murder mystery
-  \item
-    Mixed reality live immersive MMORG games
-  \item
-    Bingo and mass participation gameshows
-  \item
-    Immersive brand storytelling metaverses
-  \item
-    Escape rooms
-  \end{itemize}
-\item
-  Debating townhall meetings (with voting etc)
-\item
-  Mixed reality information metaverse
-
-  \begin{itemize}
-  \item
-    AR based city tours with collectibles
-  \item
-    AR based collectibles for trails and heritage (museums, libraries)
-    with location specific donations.
-  \end{itemize}
-\item
-  Retail applications
-
-  \begin{itemize}
-  \item
-    Proxy for physical market
-  \item
-    AR home delivery market interface within physical marketplaces
-  \end{itemize}
-\item
-  Global course / Education provision
-    \begin{itemize}
-  \item
-    Explore the universe as a group of spaceship or planet characters
-  \item
-    Explore biology and physics at a microscopic and nanoscopic level
-  \end{itemize}
-\item
-  Micro tasking marketplace
-\item
-  Code bounty marketplace
-\item
-  Micro remittance role sharing (business PA / reception etc)
-\item
-  Careers fair with credential passing
-\item
-  Auctions in mixed reality
-\item
-  eSports and live sports
-\item
-  Gambling, betting markets, and financial leverage markets
-\end{itemize}
-
-\subsection{Global cybersec course delivery}
-Isolating and building out one example here:
-\begin{itemize}
-\item Elements for the infrastructure: Economic layer, asset layer, content interface, user management, data storage, microsites loaded in Wolvin and webm, accessibility schema, network security, backups, secure messaging. Deployable framework with high modularity. Some more ossified elements for surity, some less so for malleability and open opportunity. Figure \ref{fig:globalclassroom}.
-\item Course delivery in XR, how to we develop a platform, marketplace, framework for open contribution.
-\item WebXR, Vircadia, any snap in metaverse middleware that is free and open source (action to compare the two). 
-\item Define an interface schema for bolting in any commercial or FOSS metaverse engine.
-\item VR marketplace (outside the scope of the VR engine) without a trusted third party.
-\item Cryptographically managed learning deliverables (coursework as NFT). 
-\item Secure messaging and group messaging using cryptographic keys. Check this stuff with the distributed computing science people in the group (action on John)
-\item work toward an exemplar MVP which is then "in the wild"
-\item Platform for educators
-\item Define scheme, documentation, best practice, interfaces, functional objects, pedagogy, accessibility, multi-language. 
-\item Define user management system for educators and client learners.
-\item Identify the pain points which current FOSS elements which need development time/money
-\item separate the UI/engine from the graphical assets, and the educational / pedagogical components, accessibility, and the value and asset transfer layers.
-\item Desktop systems are the primary target (low end system)
-\item define schema for accessibility. Colour, subtitles, immersion concerns which can be applied to metaverse rooms through API?
-\item Start to define the hybrid presentation model we favour. Avatars? Micro sites? A combination of the two? Balance of guided vs unguided experience. Do we need to test the correct way to do delivery? Is there prior art we can draw on? I feel I should know. Is this part of the research that's being done here?
-\item Big work package on schema vs key and user management to enforce rules in spaces. Only participants who have provably paid should have access to learning material, the ability to input into the assessment system, and the tokenised learning outcome `NFT' or proof.
-\item Proof that XR system improve learning outcomes. Also that the proposed systems for micro-transactions and user and schema management give additional headroom for teaching.
-\end{itemize}
-
+%\input{10_otherusecases}
+\section{notes for later}
 Notes on build-out
 The world database in the shared rooms in the metaverse is the global object master,  educational materials, videos,  audio content and branded objects are fungible tokens authentically proved by rgb client side validation between parties,  only validated ones will be persisted in shared rooms like conferences and classes according to the room schema. That allows educators to monetise their content.  That can work on lightning.  NFT objects between parties like content crafted by participants (coursework, homework) are not on lightning and will attract main chain fees but are rarer. User authentication and communication will be through nostr.
 

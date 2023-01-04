@@ -19,7 +19,7 @@ Distributed identity / self sovereign identity has been extensively researched f
   \caption{Part of the DID SSI specs}
   \label{fig:DID}
 \end{figure}. 
-Moreover the minimal implementation of such proposed systems hints at a \href{https://www.w3.org/community/perma-id/}{federated model} of centralised `truth' to enable persistence of identifiers over time.\\
+Moreover the minimal implementation of such proposed systems hints at a \href{https://www.w3.org/community/perma-id/}{federated model} of \href{https://github.com/w3c/vc-data-model/issues/947#issuecomment-1276186406}{centralised/federated `truth'} to enable persistence of identifiers over time.\\
 The major failing of the DID/SSI work to date is a lack of meaningful use cases with incentives for adoption. This is clearly explained by Lockwood \cite{lockwood2021exploring} who proposes that the pathway to adoption of `classic' DID/SSI requires an incentive over and above the current identity management on the web. Being distributed is not enough. Especially in the light of questionable assurances of this even being true.\\
 Perhaps most concerning is this \href{https://lists.w3.org/Archives/Public/public-credentials/2022Mar/thread.html}{recent exchange} on the mailing lists. Here, two long standing developers of DID say the following:\\
 \textit{``Not a single entity I know that's doing production deployments has actually vetted did:ion and found it to be production capable. This goes for every DLT-based DID Method out there - even the one we're working on. I am highly sceptical of anyone that says that any DID Method is ready for production usage at present.\\
@@ -32,15 +32,27 @@ The core principles of distributed identity are that there should be persistent 
 All classic DID is underpinned by a DID document what bootstrap the services it's connected to. It is made up of one or more public keys. The documents can make use of services such as timestamps, cryptographic signatures, proofs, delegations, and authorisations. They should contain the minimum amount of information to accomplish the specific task required of them.
 
 \section{Newer Technologies}
+This section about newer technologies is perhaps best \href{https://www.getrevue.co/profile/jackjack/issues/a-native-internet-protocol-for-social-media-1503112?via=twitter-card&client=DesktopWeb&element=issue-card}{summarised by Jack Dorsey}, ex CEO of twitter, paraphrased here:\\
+\textit{``I'll start with the
+principles I've come to believe based on everything I've learned and experienced through my past actions as a Twitter co-founder and Lead:
+\begin{itemize}
+\item Social media must be resilient to corporate and government control.
+\item Only the original author may remove content they produce.
+\item Moderation is best implemented by algorithmic choice.
+\end{itemize} 
+The biggest mistake I made was
+continuing to invest in building tools
+for us to manage the public conversation versus building tools for the people using Twitter to easily manage it for themselves this burdened the company with too much power and opened us to significant outside pressure such as advertising budgets. I generally think companies have become far too powerful. The only way I know of to truly live up to these three principles is a free and open protocol for social media that is not owned by a single company or group of companies and is resilient to corporate and government influence the problem today is that we have companies who own both the protocol and discovery of content which ultimately puts one person in charge of what's available and seen or not this is by definition a single point of failure no matter how great the person and over time will fracture the public conversation and may lead to more control by governments and
+corporations around the world.}\par
 
+The following technologies were selected for this book long before Dorsey wrote those words, but they \textit{are} the technologies in which he is investing his time and money to further those 3 principles.
 %modelling reputation diagram 2.3.2 %\cite{mui2002computational}
 \subsection{Lightning}
 It is possible to log into a website using only Lighting, as in \href{https://stacker.news/login?callbackUrl=https://stacker.news/}{Stacker News}.
-\subsection{Slashtags}
-Slashtags is a new distributed identity open method being developed by Bitfinex and Tether under the Synonym suite. It uses Bitcoin keys for authentication, but communicates a schema through a metadata exchange.
-\subsection{Web5 \& Microsoft ION}
+\subsection{Web5, Bluesky, \& Microsoft ION}
 Promisingly Jack Dorsey's company TBD is working on a project \href{https://developer.tbd.website/projects/web5/}{called ``Web5''}. Details are scant but the promise is decentralised and/or self hosted data and identity running on Bitcoin, without recourse to a new token. \textit{``Components include decentralized identifiers (DIDs), decentralized web node (DWNs), self-sovereign identity service (SSIS) and a self-sovereign identity software development kit (ssi-sdk)''}.\par
-Web5 leverages the ION identity stack. All this looks to be exactly what our metaverse system requires, but the complexity is likely to be quite high as it is to be built on existing DID/SSI research which is pretty complex and perhaps has problems.
+Web5 leverages the ION identity stack. All this looks to be exactly what our metaverse system requires, but the complexity is likely to be quite high as it is to be built on existing DID/SSI research which is pretty complex and perhaps has problems.\par 
+They readily admit they \href{https://atproto.com/guides/identity}{do not have a working solution} at this time: \textit{``At present, none of the DID methods meet our standards fully. Many existing DID networks are permissionless blockchains which achieve the above goals but with relatively poor latency (ION takes roughly 20 minutes for commitment finality). Therefore we have chosen to support did-web and a temporary method we've created called did-placeholder. We expect this situation to evolve as new solutions emerge.''}
 \subsubsection{ION} 
 While working at Microsoft on ION Daniel Buchner (now working at Square) or Henry Tsai \href{https://github.com/decentralized-identity/ion/blob/master/docs/Q-and-A.md}{said the following}, which is worth quoting verbatim:\par
 ``While ledger-based consensus systems, on the surface, would seem to provide the same general features as one another, there are a few key differences that make some more suitable for critical applications, like the decentralized identifiers of human beings. Some of these considerations and features are:
@@ -78,9 +90,9 @@ Nostr is ``The simplest open protocol that is able to create a censorship-resist
 \item it can likely be scaled to provide one to many bulletin board style applications within the metaverse
 \item it can easily operate outside of the walled garden of the metaverse, extending the reach of the messages
 \end{itemize} 
-Nostr is incredibly promising, and integrating these relays in the metaverse servers and clients of the proposed technology stack in this book might allow us globally provable identity, with privacy by design. It can provide message passing. If all entities in the metaverse scenegraphs are also Nostr key pairs then schema can be applied consistently with the economic layer using the same key system as Bitcoin. A curated list of projects and libraries is \href{https://github.com/aljazceru/awesome-nostr}{available on github}.\par
-\subsubsection{Anigma}
-Anigma is a Nostr based clone of popular messenger client Telegram. This provides a web2 interface into the metaverse providing:
+\href{https://www.forbes.com/sites/rogerhuang/2022/12/29/nostr-is-the-decentralized-protocol-that-might-replace-elon-musks-twitter/?sh=79e2b2be442a}{Nostr is incredibly promising}, and integrating these relays in the metaverse servers and clients of the proposed technology stack in this book might allow us globally provable identity, with privacy by design. It can provide message passing. If all entities in the metaverse scenegraphs are also Nostr key pairs then schema can be applied consistently with the economic layer using the same key system as Bitcoin. Nostr has just received a substantial grant from Dorsey. It is core to the design later in the book. A curated list of projects and libraries is \href{https://github.com/aljazceru/awesome-nostr}{available on github}.\par
+\subsubsection{NostrConsole}
+This provides a web2 interface into the metaverse providing:
 \begin{itemize}
 \item simple cryptographic identity assurance
 \item private peer to peer chat
@@ -89,6 +101,8 @@ Anigma is a Nostr based clone of popular messenger client Telegram. This provide
 \item links into media on web2 hosts
 \end{itemize}
 The proposed integration of Nostr, LnBit, Vircadia, and Bitcoin is the core value proposition of this book, with Anigma the final component.
+\subsection{Slashtags}
+Slashtags is a distributed identity open method being developed by Bitfinex and Tether under the Synonym suite. It's origins date back to 2011 and was initially seeded through academia, and government innovation grants to build on the concepts of BitTorrent. This eventually became the Hypercore protocol, and it is this system, a mobile app UX, and Bitcoin integration which form Slashtags. There is a lot of historical investment, new focus, and good product design in the Synonym ecosystem which is forming about the this `web of trust' distributed data system.
 \section{Federated social media trust}
 Keybase provides a model of \href{https://book.keybase.io/account#proofs}{importing proofs} from various social media sites. This allows importing of reputation into new ecosystems.
 \section{Micropayment based web}
@@ -104,6 +118,8 @@ It seems the war against disinformation is now being lost. Much is written in th
   \caption{Comparison of distributed file stores}
   \label{fig:Files}
 \end{figure}. 
+\section{Are DAOs useful for us?}
+\input{05_daos}
 \section{Risks \& Challenges?}
 Classic DID/SSI risks fragmentations. 
 In all DID applications, scaling to a world where the user is managing potentially thousands of these critical cryptographic data files is daunting.
